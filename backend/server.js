@@ -7,7 +7,7 @@ dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 3000;
-const API_PREFIX = process.env.API_PREFIX || '/pharmacy/api';
+const API_PREFIX = process.env.API_PREFIX || '/pharmacy/api/v1';
 
 // Middleware
 const corsOptions = {
