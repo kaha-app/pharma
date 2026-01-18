@@ -1,0 +1,28 @@
+{
+  "areas": [
+    "Thamel",
+    "Baneshwor",
+    "Balaju",
+    "Kalanki",
+    "Koteshwor",
+    "Chabahil",
+    "Lazimpat",
+    "New Road",
+    "Bouddha",
+    "Maharajgunj",
+    "Kalimati",
+    "Jorpati",
+    "Gongabu",
+    "Samakhusi",
+    "Naxal",
+    "Putalisadak",
+    "Bagbazar",
+    "Ason",
+    "Basantapur",
+    "Kirtipur"
+  ],
+  "validation": {
+    "lat": { "min": 27.5, "max": 27.85 },
+    "lng": { "min": 85.15, "max": 85.55 }
+  }
+}
