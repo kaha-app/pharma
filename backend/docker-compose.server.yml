@@ -1,0 +1,22 @@
+version: "3.3"
+
+services:
+  pharmacy-api:
+    image: node:20-alpine
+    container_name: pharmacy-api
+    working_dir: /app
+    network_mode: host
+    volumes:
+      - .:/app
+      - /app/node_modules
+    environment:
+      - NODE_ENV=production
+      - DB_HOST=localhost
+      - DB_PORT=5432
+      - DB_USER=kaha-dev
+      - DB_PASSWORD=kaha-dev
+      - DB_NAME=pharmacy_db
+      - PORT=3001
+      - FRONTEND_URL=https://dev.kaha.com.np
+    command: sh -c "npm install && npm start"
+    restart: unless-stopped

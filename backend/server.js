@@ -7,6 +7,7 @@ dotenv.config();
 
 const app = express();
 const PORT = process.env.PORT || 3000;
+const API_PREFIX = process.env.API_PREFIX || '/pharmacy/api';
 
 // Middleware
 const corsOptions = {
@@ -16,13 +17,13 @@ const corsOptions = {
 app.use(cors(corsOptions));
 app.use(express.json());
 
-// Health check endpoint
+// Health check endpoint (without prefix for Docker healthcheck)
 app.get('/health', (req, res) => {
   res.json({ status: 'ok', message: 'Pharmacy API is running' });
 });
 
-// GET /api/pharmacies - List pharmacies with pagination, search, and filters
-app.get('/api/pharmacies', async (req, res) => {
+// GET /pharmacy/api/pharmacies - List pharmacies with pagination, search, and filters
+app.get(`${API_PREFIX}/pharmacies`, async (req, res) => {
   try {
     const {
       page = 1,
@@ -183,8 +184,8 @@ app.get('/api/pharmacies', async (req, res) => {
   }
 });
 
-// GET /api/pharmacies/:id - Get single pharmacy by ID
-app.get('/api/pharmacies/:id', async (req, res) => {
+// GET /pharmacy/api/pharmacies/:id - Get single pharmacy by ID
+app.get(`${API_PREFIX}/pharmacies/:id`, async (req, res) => {
   try {
     const { id } = req.params;
 
@@ -275,8 +276,8 @@ app.get('/api/pharmacies/:id', async (req, res) => {
   }
 });
 
-// GET /api/stats - Get database statistics
-app.get('/api/stats', async (req, res) => {
+// GET /pharmacy/api/stats - Get database statistics
+app.get(`${API_PREFIX}/stats`, async (req, res) => {
   try {
     const query = `
       SELECT 
@@ -338,13 +339,14 @@ app.use((err, req, res, next) => {
 });
 
 // Start server
-app.listen(PORT, () => {
+app.listen(PORT, '0.0.0.0', () => {
   console.log(`\n🚀 Pharmacy API Server running on port ${PORT}`);
   console.log(`📍 Health check: http://localhost:${PORT}/health`);
   console.log(`📍 API endpoints:`);
-  console.log(`   GET  /api/pharmacies - List pharmacies`);
-  console.log(`   GET  /api/pharmacies/:id - Get single pharmacy`);
-  console.log(`   GET  /api/stats - Get statistics`);
+  console.log(`   GET  ${API_PREFIX}/pharmacies - List pharmacies`);
+  console.log(`   GET  ${API_PREFIX}/pharmacies/:id - Get single pharmacy`);
+  console.log(`   GET  ${API_PREFIX}/stats - Get statistics`);
+  console.log(`🌍 Environment: ${process.env.NODE_ENV || 'development'}`);
   console.log(`\n✅ Server ready to accept requests\n`);
 });
 

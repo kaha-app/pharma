@@ -1,0 +1,35 @@
+{
+  "tier": "Tier 4 - Additional Coverage Areas",
+  "areas": [
+    "Sankhu",
+    "Sallaghari Bhaktapur",
+    "Gatthaghar",
+    "Katunje",
+    "Kuleshwor",
+    "Tinkune",
+    "Bakhundole",
+    "Nakhipot",
+    "Dhapakhel",
+    "Bhaisepati",
+    "Harisiddhi",
+    "Chapagaun",
+    "Bungamati",
+    "Khokana",
+    "Balkhu",
+    "Dakshinkali Road",
+    "Machhapokhari",
+    "Mulpani",
+    "Gothatar",
+    "Boudhanath extended"
+  ],
+  "searchTerms": [
+    "pharmacy",
+    "medical store",
+    "aushadhi pasal",
+    "chemist"
+  ],
+  "validation": {
+    "lat": { "min": 27.5, "max": 27.85 },
+    "lng": { "min": 85.15, "max": 85.55 }
+  }
+}

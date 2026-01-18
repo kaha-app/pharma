@@ -1,0 +1,25 @@
+{
+  "tier": "Tier 3 - Low Density Areas",
+  "areas": [
+    "Bhaktapur Durbar Square",
+    "Suryabinayak",
+    "Thimi",
+    "Madhyapur",
+    "Changunarayan",
+    "Kirtipur",
+    "Thankot",
+    "Sitapaila",
+    "Dhalko",
+    "Narayanthan"
+  ],
+  "searchTerms": [
+    "pharmacy",
+    "medical store",
+    "aushadhi pasal",
+    "chemist"
+  ],
+  "validation": {
+    "lat": { "min": 27.5, "max": 27.85 },
+    "lng": { "min": 85.15, "max": 85.55 }
+  }
+}
