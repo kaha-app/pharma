@@ -3,16 +3,7 @@ import { usePharmacies } from '../context/PharmacyContext';
 import { MapPin, Star, Building2, ArrowRight } from 'lucide-react';
 
 export default function Home() {
-  const { pharmacies, loading } = usePharmacies();
-
-  const stats = {
-    total: pharmacies.length,
-    avgRating: pharmacies.length > 0 
-      ? (pharmacies.reduce((sum, p) => sum + p.avgRatings, 0) / pharmacies.length).toFixed(1)
-      : 0,
-    withDelivery: pharmacies.filter(p => p.isDelivery).length,
-    withPickup: pharmacies.filter(p => p.isPickup).length,
-  };
+  const { stats } = usePharmacies();
 
   return (
     <div>
@@ -24,7 +15,7 @@ export default function Home() {
               Find Pharmacies in Kathmandu
             </h1>
             <p className="text-xl text-primary-100 mb-8">
-              Comprehensive database of {stats.total}+ pharmacies with accurate locations, 
+              Comprehensive database of {stats?.total || '500+'}+ pharmacies with accurate locations, 
               contact information, and working hours
             </p>
             <Link 
@@ -47,7 +38,7 @@ export default function Home() {
                 <Building2 className="w-8 h-8 text-primary-600" />
               </div>
               <div className="text-3xl font-bold text-gray-900 mb-2">
-                {loading ? '...' : stats.total}
+                {stats?.total || '...'}
               </div>
               <div className="text-gray-600">Total Pharmacies</div>
             </div>
@@ -57,7 +48,7 @@ export default function Home() {
                 <Star className="w-8 h-8 text-yellow-600 fill-yellow-600" />
               </div>
               <div className="text-3xl font-bold text-gray-900 mb-2">
-                {loading ? '...' : stats.avgRating}
+                {stats?.avgRating?.toFixed(1) || '...'}
               </div>
               <div className="text-gray-600">Average Rating</div>
             </div>

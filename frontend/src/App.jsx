@@ -4,6 +4,7 @@ import Header from './components/layout/Header';
 import Footer from './components/layout/Footer';
 import Home from './pages/Home';
 import PharmacyList from './pages/PharmacyList';
+import PharmacyDetail from './pages/PharmacyDetail';
 import { PharmacyProvider } from './context/PharmacyContext';
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
             <Routes>
               <Route path="/" element={<Home />} />
               <Route path="/pharmacies" element={<PharmacyList />} />
+              <Route path="/pharmacy/:id" element={<PharmacyDetail />} />
             </Routes>
           </main>
           <Footer />

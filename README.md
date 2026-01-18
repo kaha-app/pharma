@@ -47,36 +47,46 @@ pharmacy-project/
 
 ## 🚀 Quick Start
 
-### Phase 1: Data Collection (Completed)
+### Local Development
 
-**Test scrape (already done):**
-```powershell
-cd pharmacy-project/scraper
-node scripts/process-pharmacies.js
+**1. Backend Setup:**
+```bash
+cd backend
+npm install
+cp .env.example .env
+# Edit .env with your database credentials
+npm run init-db
+npm run import-data
+npm start
 ```
 
-**Full scrape (to get 5,000 pharmacies):**
-```powershell
-cd pharmacy-project/scraper
-./run-scraper.bat
+**2. Frontend Setup:**
+```bash
+cd frontend
+npm install
+npm run dev
 ```
 
-Or manually:
-```powershell
-$currentPath = (Get-Location).Path
-docker run --rm -v "${currentPath}:/scraper-test" gosom/google-maps-scraper:latest-rod -input /scraper-test/input.txt -results /scraper-test/raw-results.csv -c 1 -depth 2 -lang en
+Visit `http://localhost:5173`
 
-node scripts/process-pharmacies.js
+### Deployment
+
+**Ready to deploy?** Follow the deployment guide:
+
+```bash
+# Quick 30-minute checklist
+cat deploy-checklist.md
+
+# Or full deployment guide
+cat DEPLOYMENT.md
 ```
 
-### Phase 2: React App (Next)
+**Deployment Stack:**
+- Frontend: Netlify (Free tier)
+- Backend: Render.com (Free tier)
+- Database: Render PostgreSQL (Free tier)
 
-Coming soon - Premium UI with:
-- Interactive map visualization
-- Pharmacy cards with images
-- Search and filters
-- Pagination
-- Responsive design
+See [DEPLOYMENT-SUMMARY.md](DEPLOYMENT-SUMMARY.md) for details.
 
 ---
 
@@ -86,19 +96,30 @@ Coming soon - Premium UI with:
 - Docker scraper setup and tested
 - 50 search queries across 20 Kathmandu areas
 - Data processing pipeline (transform, dedupe, validate)
-- Test data: 20 pharmacies successfully scraped
+- Full scrape: 584 pharmacies collected
 - React app with full UI components
 - Backend API with PostgreSQL
 - Database schema with optimized indexes
 - Data import pipeline working
+- Frontend-backend integration complete
+- Proper pagination (24 items per page)
+- Dedicated detail pages with routing
+- URL-based state management
+- Image lazy loading
+- **Ready for deployment!**
 
-🔄 **In Progress:**
-- Connecting frontend to backend API
+📦 **Deployment Ready:**
+- Netlify configuration
+- Render.com configuration
+- Production environment setup
+- CORS configured
+- Comprehensive deployment guides
 
-⏳ **Pending:**
-- Full scrape execution (~5,000 pharmacies)
-- Frontend-backend integration
-- Deployment
+⏳ **Next Steps:**
+- Deploy to production
+- Configure custom domain (optional)
+- Set up monitoring
+- Add analytics
 
 ---
 
@@ -164,17 +185,20 @@ Detailed documentation available in `/journey/`:
 
 ---
 
-## 🎨 React App Vision
+## 🎨 React App Features
 
 A premium web application featuring:
 
-- **Hero section** with search and stats
-- **Interactive map** with pharmacy markers
-- **Card grid** with images, ratings, location
-- **Detail modal** with full information
-- **Filters** by area, rating, services
-- **Smooth pagination** for performance
-- **Responsive design** for all devices
+- ✅ **Hero section** with search and stats
+- ✅ **Card grid** with images, ratings, location
+- ✅ **Detail pages** with full information and gallery
+- ✅ **Filters** by rating, delivery, pickup
+- ✅ **Search** by name or address
+- ✅ **Proper pagination** (24 items per page)
+- ✅ **URL state management** - shareable filtered searches
+- ✅ **Lazy loading images** for performance
+- ✅ **Responsive design** for all devices
+- ✅ **Direct pharmacy URLs** - SEO friendly
 
 ---
 

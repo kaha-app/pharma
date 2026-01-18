@@ -1,0 +1,35 @@
+{
+  "tier": "Tier 2 - Medium Density Areas",
+  "areas": [
+    "Maharajgunj",
+    "Lazimpat",
+    "Budhanilkantha",
+    "Tokha",
+    "Kapan",
+    "Bansbari",
+    "Hattigauda",
+    "Naya Bazar",
+    "Gongabu",
+    "Samakhusi",
+    "Swayambhu",
+    "Sorhakhutte",
+    "Mangal Bazar",
+    "Patan Dhoka",
+    "Thecho",
+    "Imadol",
+    "Godavari",
+    "Lubhu",
+    "Gwarko",
+    "Jhamsikhel"
+  ],
+  "searchTerms": [
+    "pharmacy",
+    "medical store",
+    "aushadhi pasal",
+    "chemist"
+  ],
+  "validation": {
+    "lat": { "min": 27.5, "max": 27.85 },
+    "lng": { "min": 85.15, "max": 85.55 }
+  }
+}

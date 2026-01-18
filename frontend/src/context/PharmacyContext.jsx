@@ -6,75 +6,58 @@ const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:3000
 
 export function PharmacyProvider({ children }) {
   const [pharmacies, setPharmacies] = useState([]);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
-  const [searchTerm, setSearchTerm] = useState('');
-  const [filters, setFilters] = useState({
-    minRating: 0,
-    hasDelivery: false,
-    hasPickup: false,
-  });
-  const [pagination, setPagination] = useState({
-    page: 1,
-    limit: 100,
-    total: 0,
-    totalPages: 0,
-  });
   const [stats, setStats] = useState(null);
 
   useEffect(() => {
-    loadPharmacies();
     loadStats();
   }, []);
 
-  useEffect(() => {
-    loadPharmacies();
-  }, [searchTerm, filters, pagination.page]);
-
-  const loadPharmacies = async () => {
+  const loadPharmacies = async (params = {}) => {
     try {
       setLoading(true);
+      setError(null);
       
       // Build query parameters
-      const params = new URLSearchParams({
-        page: pagination.page,
-        limit: pagination.limit,
+      const queryParams = new URLSearchParams({
+        page: params.page || 1,
+        limit: params.limit || 24,
       });
 
-      if (searchTerm) {
-        params.append('search', searchTerm);
+      if (params.search) {
+        queryParams.append('search', params.search);
       }
 
-      if (filters.minRating > 0) {
-        params.append('minRating', filters.minRating);
+      if (params.minRating > 0) {
+        queryParams.append('minRating', params.minRating);
       }
 
-      if (filters.hasDelivery) {
-        params.append('hasDelivery', 'true');
+      if (params.hasDelivery) {
+        queryParams.append('hasDelivery', 'true');
       }
 
-      if (filters.hasPickup) {
-        params.append('hasPickup', 'true');
+      if (params.hasPickup) {
+        queryParams.append('hasPickup', 'true');
       }
 
-      const response = await fetch(`${API_BASE_URL}/pharmacies?${params}`);
+      const response = await fetch(`${API_BASE_URL}/pharmacies?${queryParams}`);
       if (!response.ok) throw new Error('Failed to load pharmacies');
       
       const result = await response.json();
       
       if (result.success) {
-        setPharmacies(result.data);
-        setPagination(prev => ({
-          ...prev,
-          total: result.pagination.total,
-          totalPages: result.pagination.totalPages,
-        }));
+        return {
+          data: result.data,
+          pagination: result.pagination,
+        };
       } else {
         throw new Error(result.error || 'Failed to load pharmacies');
       }
     } catch (err) {
       setError(err.message);
       console.error('Error loading pharmacies:', err);
+      throw err;
     } finally {
       setLoading(false);
     }
@@ -95,44 +78,30 @@ export function PharmacyProvider({ children }) {
     }
   };
 
-  const loadMore = () => {
-    if (pagination.page < pagination.totalPages) {
-      setPagination(prev => ({
-        ...prev,
-        page: prev.page + 1,
-      }));
+  const loadPharmacyById = async (id) => {
+    try {
+      const response = await fetch(`${API_BASE_URL}/pharmacies/${id}`);
+      if (!response.ok) throw new Error('Failed to load pharmacy');
+      
+      const result = await response.json();
+      
+      if (result.success) {
+        return result.data;
+      } else {
+        throw new Error(result.error || 'Failed to load pharmacy');
+      }
+    } catch (err) {
+      console.error('Error loading pharmacy:', err);
+      throw err;
     }
   };
 
-  const resetPagination = () => {
-    setPagination(prev => ({
-      ...prev,
-      page: 1,
-    }));
-  };
-
-  // Client-side filtering is now handled by the API
-  const filteredPharmacies = pharmacies;
-
   const value = {
-    pharmacies,
-    filteredPharmacies,
+    loadPharmacies,
+    loadPharmacyById,
     loading,
     error,
-    searchTerm,
-    setSearchTerm: (term) => {
-      setSearchTerm(term);
-      resetPagination();
-    },
-    filters,
-    setFilters: (newFilters) => {
-      setFilters(newFilters);
-      resetPagination();
-    },
-    pagination,
-    loadMore,
     stats,
-    refreshData: loadPharmacies,
   };
 
   return (

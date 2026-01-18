@@ -72,7 +72,7 @@ export default function PharmacyModal({ pharmacy, onClose }) {
             <div className="flex items-center space-x-2">
               {renderStars(pharmacy.avgRatings)}
               <span className="text-lg font-semibold text-gray-700 ml-2">
-                {pharmacy.avgRatings.toFixed(1)}
+                {parseFloat(pharmacy.avgRatings).toFixed(1)}
               </span>
             </div>
           </div>

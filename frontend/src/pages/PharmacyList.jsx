@@ -1,43 +1,98 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
+import { useSearchParams, useNavigate } from 'react-router-dom';
 import { usePharmacies } from '../context/PharmacyContext';
 import SearchBar from '../components/search/SearchBar';
 import FilterPanel from '../components/search/FilterPanel';
 import PharmacyGrid from '../components/pharmacy/PharmacyGrid';
 import Pagination from '../components/common/Pagination';
-import PharmacyModal from '../components/pharmacy/PharmacyModal';
 import { Filter, Loader } from 'lucide-react';
 
 export default function PharmacyList() {
-  const { 
-    filteredPharmacies, 
-    loading, 
-    searchTerm, 
-    setSearchTerm, 
-    filters, 
-    setFilters 
-  } = usePharmacies();
+  const navigate = useNavigate();
+  const [searchParams, setSearchParams] = useSearchParams();
+  const { loadPharmacies, loading } = usePharmacies();
 
-  const [currentPage, setCurrentPage] = useState(1);
+  // Get state from URL
+  const page = parseInt(searchParams.get('page')) || 1;
+  const search = searchParams.get('search') || '';
+  const minRating = parseFloat(searchParams.get('minRating')) || 0;
+  const hasDelivery = searchParams.get('hasDelivery') === 'true';
+  const hasPickup = searchParams.get('hasPickup') === 'true';
+
   const [showFilters, setShowFilters] = useState(false);
-  const [selectedPharmacy, setSelectedPharmacy] = useState(null);
-  
-  const itemsPerPage = 10; // Show 10 pharmacies per page
-  const totalPages = Math.ceil(filteredPharmacies.length / itemsPerPage);
-  
-  const startIndex = (currentPage - 1) * itemsPerPage;
-  const endIndex = startIndex + itemsPerPage;
-  const currentPharmacies = filteredPharmacies.slice(startIndex, endIndex);
+  const [pharmacies, setPharmacies] = useState([]);
+  const [pagination, setPagination] = useState({
+    page: 1,
+    total: 0,
+    totalPages: 0,
+  });
 
-  const handlePageChange = (page) => {
-    setCurrentPage(page);
+  const filters = { minRating, hasDelivery, hasPickup };
+
+  // Load pharmacies when URL params change
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const result = await loadPharmacies({
+          page,
+          limit: 24,
+          search,
+          minRating,
+          hasDelivery,
+          hasPickup,
+        });
+        setPharmacies(result.data);
+        setPagination(result.pagination);
+      } catch (error) {
+        console.error('Failed to load pharmacies:', error);
+      }
+    };
+    fetchData();
+  }, [page, search, minRating, hasDelivery, hasPickup]);
+
+  const updateSearchParams = (updates) => {
+    const newParams = new URLSearchParams(searchParams);
+    
+    Object.entries(updates).forEach(([key, value]) => {
+      if (value === '' || value === null || value === undefined || value === false || value === 0) {
+        newParams.delete(key);
+      } else {
+        newParams.set(key, value);
+      }
+    });
+    
+    // Reset to page 1 when filters change (except when changing page itself)
+    if (!updates.page && newParams.get('page')) {
+      newParams.set('page', '1');
+    }
+    
+    setSearchParams(newParams);
+  };
+
+  const handleSearchChange = (value) => {
+    updateSearchParams({ search: value });
+  };
+
+  const handleFiltersChange = (newFilters) => {
+    updateSearchParams({
+      minRating: newFilters.minRating || undefined,
+      hasDelivery: newFilters.hasDelivery || undefined,
+      hasPickup: newFilters.hasPickup || undefined,
+    });
+  };
+
+  const handlePageChange = (newPage) => {
+    updateSearchParams({ page: newPage });
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
   const handlePharmacyClick = (pharmacy) => {
-    setSelectedPharmacy(pharmacy);
+    navigate(`/pharmacy/${pharmacy.id}`);
   };
 
-  if (loading) {
+  const activeFilterCount = [minRating > 0, hasDelivery, hasPickup].filter(Boolean).length;
+
+  if (loading && pharmacies.length === 0) {
     return (
       <div className="container mx-auto px-4 py-20">
         <div className="flex flex-col items-center justify-center">
@@ -56,7 +111,13 @@ export default function PharmacyList() {
           All Pharmacies
         </h1>
         <p className="text-gray-600">
-          Showing {startIndex + 1}-{Math.min(endIndex, filteredPharmacies.length)} of {filteredPharmacies.length} pharmacies
+          {pagination.total > 0 ? (
+            <>
+              Showing {((page - 1) * 24) + 1}-{Math.min(page * 24, pagination.total)} of {pagination.total} pharmacies
+            </>
+          ) : (
+            'No pharmacies found'
+          )}
         </p>
       </div>
 
@@ -64,8 +125,8 @@ export default function PharmacyList() {
       <div className="mb-8 flex flex-col md:flex-row gap-4">
         <div className="flex-grow">
           <SearchBar 
-            value={searchTerm}
-            onChange={setSearchTerm}
+            value={search}
+            onChange={handleSearchChange}
             placeholder="Search by name or address..."
           />
         </div>
@@ -75,9 +136,9 @@ export default function PharmacyList() {
         >
           <Filter className="w-5 h-5" />
           <span>Filters</span>
-          {(filters.minRating > 0 || filters.hasDelivery || filters.hasPickup) && (
+          {activeFilterCount > 0 && (
             <span className="bg-primary-600 text-white text-xs rounded-full w-5 h-5 flex items-center justify-center">
-              {[filters.minRating > 0, filters.hasDelivery, filters.hasPickup].filter(Boolean).length}
+              {activeFilterCount}
             </span>
           )}
         </button>
@@ -88,30 +149,30 @@ export default function PharmacyList() {
         <div className="mb-8">
           <FilterPanel 
             filters={filters}
-            setFilters={setFilters}
+            setFilters={handleFiltersChange}
             onClose={() => setShowFilters(false)}
           />
         </div>
       )}
 
       {/* Pharmacy Grid */}
-      <PharmacyGrid 
-        pharmacies={currentPharmacies}
-        onPharmacyClick={handlePharmacyClick}
-      />
+      {loading ? (
+        <div className="flex justify-center py-12">
+          <Loader className="w-8 h-8 text-primary-600 animate-spin" />
+        </div>
+      ) : (
+        <PharmacyGrid 
+          pharmacies={pharmacies}
+          onPharmacyClick={handlePharmacyClick}
+        />
+      )}
 
       {/* Pagination */}
-      <Pagination 
-        currentPage={currentPage}
-        totalPages={totalPages}
-        onPageChange={handlePageChange}
-      />
-
-      {/* Pharmacy Detail Modal */}
-      {selectedPharmacy && (
-        <PharmacyModal 
-          pharmacy={selectedPharmacy}
-          onClose={() => setSelectedPharmacy(null)}
+      {pagination.totalPages > 1 && (
+        <Pagination 
+          currentPage={page}
+          totalPages={pagination.totalPages}
+          onPageChange={handlePageChange}
         />
       )}
     </div>

@@ -9,7 +9,11 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // Middleware
-app.use(cors());
+const corsOptions = {
+  origin: process.env.FRONTEND_URL || '*',
+  credentials: true,
+};
+app.use(cors(corsOptions));
 app.use(express.json());
 
 // Health check endpoint
@@ -137,6 +141,13 @@ app.get('/api/pharmacies', async (req, res) => {
     // Format response
     const pharmacies = dataResult.rows.map(row => ({
       ...row,
+      // Parse JSON fields if they're strings
+      gallery: typeof row.gallery === 'string' ? JSON.parse(row.gallery) : row.gallery,
+      webGallery: typeof row.webGallery === 'string' ? JSON.parse(row.webGallery) : row.webGallery,
+      workingDaysAndHours: typeof row.workingDaysAndHours === 'string' ? JSON.parse(row.workingDaysAndHours) : row.workingDaysAndHours,
+      reviewsPerRating: typeof row.reviewsPerRating === 'string' ? JSON.parse(row.reviewsPerRating) : row.reviewsPerRating,
+      popularTimes: typeof row.popularTimes === 'string' ? JSON.parse(row.popularTimes) : row.popularTimes,
+      userReviews: typeof row.userReviews === 'string' ? JSON.parse(row.userReviews) : row.userReviews,
       location: {
         lat: parseFloat(row.latitude),
         lng: parseFloat(row.longitude)
@@ -233,6 +244,13 @@ app.get('/api/pharmacies/:id', async (req, res) => {
 
     const pharmacy = {
       ...result.rows[0],
+      // Parse JSON fields if they're strings
+      gallery: typeof result.rows[0].gallery === 'string' ? JSON.parse(result.rows[0].gallery) : result.rows[0].gallery,
+      webGallery: typeof result.rows[0].webGallery === 'string' ? JSON.parse(result.rows[0].webGallery) : result.rows[0].webGallery,
+      workingDaysAndHours: typeof result.rows[0].workingDaysAndHours === 'string' ? JSON.parse(result.rows[0].workingDaysAndHours) : result.rows[0].workingDaysAndHours,
+      reviewsPerRating: typeof result.rows[0].reviewsPerRating === 'string' ? JSON.parse(result.rows[0].reviewsPerRating) : result.rows[0].reviewsPerRating,
+      popularTimes: typeof result.rows[0].popularTimes === 'string' ? JSON.parse(result.rows[0].popularTimes) : result.rows[0].popularTimes,
+      userReviews: typeof result.rows[0].userReviews === 'string' ? JSON.parse(result.rows[0].userReviews) : result.rows[0].userReviews,
       location: {
         lat: parseFloat(result.rows[0].latitude),
         lng: parseFloat(result.rows[0].longitude)

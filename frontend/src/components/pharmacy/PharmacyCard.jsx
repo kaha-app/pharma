@@ -50,6 +50,7 @@ export default function PharmacyCard({ pharmacy, onClick }) {
             alt={pharmacy.name}
             className="w-full h-full object-cover"
             crossOrigin="anonymous"
+            loading="lazy"
             onError={(e) => {
               console.log('Image failed to load:', displayImage);
               setImageError(true);
@@ -66,7 +67,7 @@ export default function PharmacyCard({ pharmacy, onClick }) {
         {pharmacy.avgRatings > 0 && (
           <div className="absolute top-3 right-3 bg-white rounded-full px-3 py-1 shadow-lg flex items-center space-x-1">
             <Star className="w-4 h-4 fill-yellow-400 text-yellow-400" />
-            <span className="font-semibold text-sm">{pharmacy.avgRatings.toFixed(1)}</span>
+            <span className="font-semibold text-sm">{parseFloat(pharmacy.avgRatings).toFixed(1)}</span>
           </div>
         )}
       </div>
@@ -81,7 +82,7 @@ export default function PharmacyCard({ pharmacy, onClick }) {
         <div className="flex items-center space-x-1 mb-3">
           {renderStars(pharmacy.avgRatings)}
           <span className="text-sm text-gray-500 ml-2">
-            ({pharmacy.avgRatings.toFixed(1)})
+            ({parseFloat(pharmacy.avgRatings).toFixed(1)})
           </span>
         </div>
 

@@ -1,0 +1,5865 @@
+[
+  {
+    "name": "Siya pharmacy - सिया फार्मेसी",
+    "contact": "01-4107202",
+    "email": null,
+    "address": "144 Madan Bhandari Road, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxUhOuv7ypAd9KQQzQMcUkMqnFXHd9B4Xx_7161h60kMux0LLJ-QTOd0NzMQIrD5O71Q7yOp3KoXlhNYWFU2nmFuqtJMlMbqk_xNWWTIpfCByB0JDk4takmPzc91hwD4zMtyqk4IA=w397-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxUhOuv7ypAd9KQQzQMcUkMqnFXHd9B4Xx_7161h60kMux0LLJ-QTOd0NzMQIrD5O71Q7yOp3KoXlhNYWFU2nmFuqtJMlMbqk_xNWWTIpfCByB0JDk4takmPzc91hwD4zMtyqk4IA=w397-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qw4Hi_HqGFF5N327ZdUPOw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=230.97604&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxUhOuv7ypAd9KQQzQMcUkMqnFXHd9B4Xx_7161h60kMux0LLJ-QTOd0NzMQIrD5O71Q7yOp3KoXlhNYWFU2nmFuqtJMlMbqk_xNWWTIpfCByB0JDk4takmPzc91hwD4zMtyqk4IA=w408-h306-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "144 Madan Bhandari Road",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxUhOuv7ypAd9KQQzQMcUkMqnFXHd9B4Xx_7161h60kMux0LLJ-QTOd0NzMQIrD5O71Q7yOp3KoXlhNYWFU2nmFuqtJMlMbqk_xNWWTIpfCByB0JDk4takmPzc91hwD4zMtyqk4IA=w397-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=qw4Hi_HqGFF5N327ZdUPOw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=230.97604&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "6 AM–11 PM"
+      ],
+      "Monday": [
+        "6 AM–11 PM"
+      ],
+      "Saturday": [
+        "6 AM–11 PM"
+      ],
+      "Sunday": [
+        "6 AM–11 PM"
+      ],
+      "Thursday": [
+        "6 AM–11 PM"
+      ],
+      "Tuesday": [
+        "6 AM–11 PM"
+      ],
+      "Wednesday": [
+        "6 AM–11 PM"
+      ]
+    },
+    "avgRatings": 4,
+    "reviewCount": 1,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0
+    },
+    "popularTimes": {
+      "Friday": {
+        "5": 0,
+        "6": 42,
+        "7": 78,
+        "8": 78,
+        "9": 71,
+        "10": 35,
+        "11": 50,
+        "12": 42,
+        "13": 57,
+        "14": 50,
+        "15": 71,
+        "16": 64,
+        "17": 64,
+        "18": 57,
+        "19": 64,
+        "20": 50,
+        "21": 42,
+        "22": 28
+      },
+      "Monday": {
+        "5": 0,
+        "6": 35,
+        "7": 28,
+        "8": 64,
+        "9": 57,
+        "10": 64,
+        "11": 64,
+        "12": 71,
+        "13": 71,
+        "14": 64,
+        "15": 35,
+        "16": 35,
+        "17": 42,
+        "18": 57,
+        "19": 71,
+        "20": 71,
+        "21": 85,
+        "22": 78
+      },
+      "Saturday": {
+        "5": 0,
+        "6": 42,
+        "7": 28,
+        "8": 28,
+        "9": 64,
+        "10": 64,
+        "11": 100,
+        "12": 92,
+        "13": 85,
+        "14": 64,
+        "15": 71,
+        "16": 42,
+        "17": 50,
+        "18": 78,
+        "19": 78,
+        "20": 71,
+        "21": 57,
+        "22": 64
+      },
+      "Sunday": {
+        "5": 0,
+        "6": 92,
+        "7": 64,
+        "8": 35,
+        "9": 14,
+        "10": 28,
+        "11": 42,
+        "12": 57,
+        "13": 42,
+        "14": 42,
+        "15": 42,
+        "16": 42,
+        "17": 64,
+        "18": 57,
+        "19": 21,
+        "20": 21,
+        "21": 28,
+        "22": 57
+      },
+      "Thursday": {
+        "5": 0,
+        "6": 42,
+        "7": 71,
+        "8": 57,
+        "9": 50,
+        "10": 42,
+        "11": 57,
+        "12": 71,
+        "13": 57,
+        "14": 57,
+        "15": 42,
+        "16": 78,
+        "17": 71,
+        "18": 50,
+        "19": 21,
+        "20": 14,
+        "21": 14,
+        "22": 35
+      },
+      "Tuesday": {
+        "5": 0,
+        "6": 14,
+        "7": 7,
+        "8": 14,
+        "9": 21,
+        "10": 28,
+        "11": 28,
+        "12": 14,
+        "13": 35,
+        "14": 35,
+        "15": 50,
+        "16": 35,
+        "17": 35,
+        "18": 57,
+        "19": 57,
+        "20": 35,
+        "21": 28,
+        "22": 42
+      },
+      "Wednesday": {
+        "5": 0,
+        "6": 42,
+        "7": 50,
+        "8": 21,
+        "9": 14,
+        "10": 14,
+        "11": 21,
+        "12": 35,
+        "13": 35,
+        "14": 42,
+        "15": 57,
+        "16": 50,
+        "17": 35,
+        "18": 14,
+        "19": 0,
+        "20": 7,
+        "21": 21,
+        "22": 21
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "Sandip Pokhrel",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWbRG-skf31-94aBv8TOAPgeG8n3G61_EpmUjFgoRfRA76-VGVydA=s120-c-rp-mo-ba7-br100",
+        "Rating": 4,
+        "Description": "Its near civil service hospital baneshwor beside ENT care and Minbhawan pharmacy, its overall services is good, you can also get medicine in discount, I marked it as a good pharmacy in this area because I´ve visited it several time and its service is good....",
+        "Images": [
+          "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgICEoNufBw&fid=0x0:0x56871b068dbddf4d"
+        ],
+        "When": "2017-10-28"
+      }
+    ],
+    "priceRange": null,
+    "plusCode": "M8QP+3W Kathmandu",
+    "timezone": "Asia/Katmandu",
+    "cid": "6234981924079525709",
+    "location": {
+      "lat": 27.687626,
+      "lng": 85.33733
+    }
+  },
+  {
+    "name": "Radience pharmacy",
+    "contact": "984-2028681",
+    "email": null,
+    "address": "M8QV+V4J Radience pharmacy, Thulo Kharibot Marga, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxhCyOQJyKtJCQRyyMywXUO8HZ6nZs5c9cxCWP7wBO5GD9OGMQbjgLGIamTGx73vCsbWxFFwBG31RImq8UhWDke81OJt-SHrhr3aMX_skYlcXt8mN3AOAAeF4PFTh7EcImVLj_xyFi3I-A=w529-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxhCyOQJyKtJCQRyyMywXUO8HZ6nZs5c9cxCWP7wBO5GD9OGMQbjgLGIamTGx73vCsbWxFFwBG31RImq8UhWDke81OJt-SHrhr3aMX_skYlcXt8mN3AOAAeF4PFTh7EcImVLj_xyFi3I-A=w529-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Er1PqJQLkn070QfZk5bLTw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=109.056946&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxhCyOQJyKtJCQRyyMywXUO8HZ6nZs5c9cxCWP7wBO5GD9OGMQbjgLGIamTGx73vCsbWxFFwBG31RImq8UhWDke81OJt-SHrhr3aMX_skYlcXt8mN3AOAAeF4PFTh7EcImVLj_xyFi3I-A=w426-h240-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "M8QV+V4J, Thulo Kharibot Marga",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxhCyOQJyKtJCQRyyMywXUO8HZ6nZs5c9cxCWP7wBO5GD9OGMQbjgLGIamTGx73vCsbWxFFwBG31RImq8UhWDke81OJt-SHrhr3aMX_skYlcXt8mN3AOAAeF4PFTh7EcImVLj_xyFi3I-A=w529-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Er1PqJQLkn070QfZk5bLTw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=109.056946&pitch=0&thumbfov=100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxCXyR-Aed87_fdPSxyfyUiSOtTu69gsFS3vVAcycgWLLOa94LxKT1FdvRWtsG_e4vLvvodNJtfF5sMm6VeLOBDUo931V3nDqH6um4spI9GOH0Cz_CuqO4ptmb6CBG1UXRXJB_ZeO9Cv9o=w224-h398-k-no"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "9 AM–9 PM"
+      ],
+      "Monday": [
+        "9 AM–9 PM"
+      ],
+      "Saturday": [
+        "9 AM–9 PM"
+      ],
+      "Sunday": [
+        "9 AM–9 PM"
+      ],
+      "Thursday": [
+        "9 AM–9 PM"
+      ],
+      "Tuesday": [
+        "9 AM–9 PM"
+      ],
+      "Wednesday": [
+        "9 AM–9 PM"
+      ]
+    },
+    "avgRatings": 5,
+    "reviewCount": 1,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1
+    },
+    "popularTimes": {
+      "Friday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 53,
+        "10": 38,
+        "11": 53,
+        "12": 46,
+        "13": 61,
+        "14": 61,
+        "15": 69,
+        "16": 53,
+        "17": 30,
+        "18": 15,
+        "19": 0,
+        "20": 15,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Monday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 61,
+        "10": 92,
+        "11": 84,
+        "12": 61,
+        "13": 53,
+        "14": 38,
+        "15": 76,
+        "16": 84,
+        "17": 100,
+        "18": 84,
+        "19": 76,
+        "20": 69,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Saturday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 38,
+        "10": 23,
+        "11": 15,
+        "12": 23,
+        "13": 61,
+        "14": 53,
+        "15": 53,
+        "16": 61,
+        "17": 61,
+        "18": 76,
+        "19": 46,
+        "20": 53,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Sunday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 69,
+        "10": 61,
+        "11": 30,
+        "12": 53,
+        "13": 38,
+        "14": 46,
+        "15": 53,
+        "16": 53,
+        "17": 53,
+        "18": 38,
+        "19": 30,
+        "20": 38,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Thursday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 69,
+        "10": 92,
+        "11": 76,
+        "12": 69,
+        "13": 38,
+        "14": 30,
+        "15": 46,
+        "16": 84,
+        "17": 61,
+        "18": 38,
+        "19": 23,
+        "20": 15,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Tuesday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 30,
+        "10": 30,
+        "11": 15,
+        "12": 23,
+        "13": 30,
+        "14": 15,
+        "15": 7,
+        "16": 7,
+        "17": 23,
+        "18": 46,
+        "19": 53,
+        "20": 46,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Wednesday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 69,
+        "10": 30,
+        "11": 30,
+        "12": 53,
+        "13": 69,
+        "14": 46,
+        "15": 30,
+        "16": 38,
+        "17": 53,
+        "18": 38,
+        "19": 23,
+        "20": 23,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "anup kafley",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWDLWswkjZR8TJpr8jqObz7kXwBb3FvNGQXuq1kor0csyCy2YMP=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "Best Helth care service by professional s",
+        "Images": [
+          "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIABIhDAMqNFUc6myax0pOnfgAgl&fid=0x0:0xd219666e487edbf4"
+        ],
+        "When": "2025-12-11"
+      }
+    ],
+    "priceRange": null,
+    "plusCode": null,
+    "timezone": "Asia/Katmandu",
+    "cid": "15139244246231342068",
+    "location": {
+      "lat": 27.689712,
+      "lng": 85.342765
+    }
+  },
+  {
+    "name": "SUDHAN PHARMA",
+    "contact": "01-4115817",
+    "email": null,
+    "address": "मिनभवन ३४, भिमसेनगोला मार्ग, 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGUrqtCw5lOikHCvAGx6wcMCEO-CZpSNSXeyyjLWNeK9uhhl5wFjK1aK5G9mTNMrYfjyvvuk6d3BsD4U0q84EXg7p6fHQtW6GOpvfFp2EXMcS7vi8gom1DK1Wrf4eY6LD8mdhhyn6HQ7zgvy8lrcEs2nBTjkgEb00cQVC9o1iMNa52RaJQmE6FN8w7tEPWxyIMkVb0=w529-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGUrqtCw5lOikHCvAGx6wcMCEO-CZpSNSXeyyjLWNeK9uhhl5wFjK1aK5G9mTNMrYfjyvvuk6d3BsD4U0q84EXg7p6fHQtW6GOpvfFp2EXMcS7vi8gom1DK1Wrf4eY6LD8mdhhyn6HQ7zgvy8lrcEs2nBTjkgEb00cQVC9o1iMNa52RaJQmE6FN8w7tEPWxyIMkVb0=w529-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6FJAoSOIonUSY9FxPzPXCA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=112.08151&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGDB_PZMgmLgi3gyRJANSHiiCxDPLkegvExy5TYvUOE-Ft1X-xcAOV1Vhc8t8txM3Y9NE6WM651SE9oqAlyiad0UT1-rzNUL1JHzVgRDoejCA1ZoJMZV1aiwIYZq6Zgzvso4qcOohErG6k4zWC8bKR0GGzGvRvd99E0QrhFEk3gXb_TBsLREvKI4PjWvC3QTY36SdI=w426-h240-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "मिनभवन ३४, भिमसेनगोला मार्ग",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGUrqtCw5lOikHCvAGx6wcMCEO-CZpSNSXeyyjLWNeK9uhhl5wFjK1aK5G9mTNMrYfjyvvuk6d3BsD4U0q84EXg7p6fHQtW6GOpvfFp2EXMcS7vi8gom1DK1Wrf4eY6LD8mdhhyn6HQ7zgvy8lrcEs2nBTjkgEb00cQVC9o1iMNa52RaJQmE6FN8w7tEPWxyIMkVb0=w529-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=6FJAoSOIonUSY9FxPzPXCA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=112.08151&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "7 AM–9 PM"
+      ],
+      "Monday": [
+        "7 AM–9 PM"
+      ],
+      "Saturday": [
+        "7 AM–9 PM"
+      ],
+      "Sunday": [
+        "7 AM–9 PM"
+      ],
+      "Thursday": [
+        "7 AM–9 PM"
+      ],
+      "Tuesday": [
+        "7 AM–9 PM"
+      ],
+      "Wednesday": [
+        "7 AM–9 PM"
+      ]
+    },
+    "avgRatings": 0,
+    "reviewCount": 0,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "popularTimes": {
+      "Friday": {
+        "6": 0,
+        "7": 29,
+        "8": 29,
+        "9": 23,
+        "10": 29,
+        "11": 41,
+        "12": 58,
+        "13": 70,
+        "14": 64,
+        "15": 29,
+        "16": 29,
+        "17": 47,
+        "18": 41,
+        "19": 23,
+        "20": 17,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Monday": {
+        "6": 0,
+        "7": 23,
+        "8": 11,
+        "9": 11,
+        "10": 23,
+        "11": 41,
+        "12": 35,
+        "13": 23,
+        "14": 11,
+        "15": 11,
+        "16": 47,
+        "17": 64,
+        "18": 82,
+        "19": 64,
+        "20": 47,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Saturday": {
+        "6": 0,
+        "7": 11,
+        "8": 29,
+        "9": 64,
+        "10": 100,
+        "11": 64,
+        "12": 35,
+        "13": 23,
+        "14": 35,
+        "15": 64,
+        "16": 76,
+        "17": 70,
+        "18": 58,
+        "19": 35,
+        "20": 29,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Sunday": {
+        "6": 0,
+        "7": 29,
+        "8": 47,
+        "9": 47,
+        "10": 47,
+        "11": 29,
+        "12": 35,
+        "13": 23,
+        "14": 35,
+        "15": 29,
+        "16": 23,
+        "17": 35,
+        "18": 35,
+        "19": 47,
+        "20": 47,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Thursday": {
+        "6": 0,
+        "7": 29,
+        "8": 35,
+        "9": 23,
+        "10": 41,
+        "11": 41,
+        "12": 52,
+        "13": 41,
+        "14": 35,
+        "15": 29,
+        "16": 17,
+        "17": 17,
+        "18": 29,
+        "19": 23,
+        "20": 29,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Tuesday": {
+        "6": 0,
+        "7": 52,
+        "8": 52,
+        "9": 47,
+        "10": 52,
+        "11": 29,
+        "12": 35,
+        "13": 47,
+        "14": 35,
+        "15": 29,
+        "16": 23,
+        "17": 35,
+        "18": 29,
+        "19": 29,
+        "20": 23,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Wednesday": {
+        "6": 0,
+        "7": 17,
+        "8": 17,
+        "9": 35,
+        "10": 52,
+        "11": 47,
+        "12": 47,
+        "13": 23,
+        "14": 17,
+        "15": 29,
+        "16": 29,
+        "17": 17,
+        "18": 17,
+        "19": 11,
+        "20": 29,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      }
+    },
+    "userReviews": [],
+    "priceRange": null,
+    "plusCode": "M8QR+JW Kathmandu",
+    "timezone": "Asia/Katmandu",
+    "cid": "14690794706922377185",
+    "location": {
+      "lat": 27.689021,
+      "lng": 85.342293
+    }
+  },
+  {
+    "name": "TeraCare Pharmacy",
+    "contact": null,
+    "email": null,
+    "address": "M8QR+36C TeraCare Pharmacy, Minbhawan Marg, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwo-aP1eU1r4jBj-aeXkIj8gPNgBDXs5Pjx3VUGJwxVJNHWQdmw-JuFv4GWp1jkee-t3gbsZvqtmhIEr1uJ0nCqUVJMxTvcTD_umSG9hILlkjssD7tOQbEmi-UfFKR1AMo-HS8x=w317-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwo-aP1eU1r4jBj-aeXkIj8gPNgBDXs5Pjx3VUGJwxVJNHWQdmw-JuFv4GWp1jkee-t3gbsZvqtmhIEr1uJ0nCqUVJMxTvcTD_umSG9hILlkjssD7tOQbEmi-UfFKR1AMo-HS8x=w317-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fMmjobHImxWQK_U29-Dg1A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=29.29762&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwo-aP1eU1r4jBj-aeXkIj8gPNgBDXs5Pjx3VUGJwxVJNHWQdmw-JuFv4GWp1jkee-t3gbsZvqtmhIEr1uJ0nCqUVJMxTvcTD_umSG9hILlkjssD7tOQbEmi-UfFKR1AMo-HS8x=w408-h382-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "M8QR+36C, Minbhawan Marg",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwo-aP1eU1r4jBj-aeXkIj8gPNgBDXs5Pjx3VUGJwxVJNHWQdmw-JuFv4GWp1jkee-t3gbsZvqtmhIEr1uJ0nCqUVJMxTvcTD_umSG9hILlkjssD7tOQbEmi-UfFKR1AMo-HS8x=w317-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=fMmjobHImxWQK_U29-Dg1A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=29.29762&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "7 AM–8 PM"
+      ],
+      "Monday": [
+        "7 AM–8 PM"
+      ],
+      "Saturday": [
+        "7 AM–8 PM"
+      ],
+      "Sunday": [
+        "7 AM–8 PM"
+      ],
+      "Thursday": [
+        "7 AM–8 PM"
+      ],
+      "Tuesday": [
+        "7 AM–8 PM"
+      ],
+      "Wednesday": [
+        "7 AM–8 PM"
+      ]
+    },
+    "avgRatings": 5,
+    "reviewCount": 1,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1
+    },
+    "popularTimes": {
+      "Friday": {
+        "6": 0,
+        "7": 43,
+        "8": 31,
+        "9": 50,
+        "10": 56,
+        "11": 75,
+        "12": 62,
+        "13": 50,
+        "14": 56,
+        "15": 37,
+        "16": 50,
+        "17": 43,
+        "18": 43,
+        "19": 31,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Monday": {
+        "6": 0,
+        "7": 50,
+        "8": 25,
+        "9": 25,
+        "10": 25,
+        "11": 25,
+        "12": 18,
+        "13": 31,
+        "14": 56,
+        "15": 68,
+        "16": 100,
+        "17": 75,
+        "18": 56,
+        "19": 31,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Saturday": {
+        "6": 0,
+        "7": 6,
+        "8": 6,
+        "9": 18,
+        "10": 31,
+        "11": 43,
+        "12": 37,
+        "13": 37,
+        "14": 25,
+        "15": 43,
+        "16": 31,
+        "17": 37,
+        "18": 18,
+        "19": 12,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Sunday": {
+        "6": 0,
+        "7": 43,
+        "8": 31,
+        "9": 18,
+        "10": 31,
+        "11": 18,
+        "12": 25,
+        "13": 37,
+        "14": 56,
+        "15": 50,
+        "16": 37,
+        "17": 31,
+        "18": 50,
+        "19": 62,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Thursday": {
+        "6": 0,
+        "7": 25,
+        "8": 31,
+        "9": 43,
+        "10": 37,
+        "11": 31,
+        "12": 12,
+        "13": 18,
+        "14": 37,
+        "15": 43,
+        "16": 56,
+        "17": 43,
+        "18": 18,
+        "19": 6,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Tuesday": {
+        "6": 0,
+        "7": 56,
+        "8": 75,
+        "9": 50,
+        "10": 50,
+        "11": 31,
+        "12": 25,
+        "13": 37,
+        "14": 50,
+        "15": 31,
+        "16": 18,
+        "17": 6,
+        "18": 12,
+        "19": 31,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Wednesday": {
+        "6": 0,
+        "7": 25,
+        "8": 25,
+        "9": 62,
+        "10": 50,
+        "11": 43,
+        "12": 18,
+        "13": 31,
+        "14": 37,
+        "15": 50,
+        "16": 75,
+        "17": 68,
+        "18": 62,
+        "19": 43,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "poonam pant",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjVTwNQcYrrZCcbSv5IXj26MfAgorLRW5YJAsIK1Eyzxr2yVjCHZ=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": null,
+    "timezone": "Asia/Katmandu",
+    "cid": "10312006023876762454",
+    "location": {
+      "lat": 27.687681,
+      "lng": 85.340514
+    }
+  },
+  {
+    "name": "कुमार फार्मेसी",
+    "contact": null,
+    "email": null,
+    "address": "भिमसेनगोला मार्ग, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEvQestxJ3FQDvxccKnnV5M12lxmpeUPNUMcsQ4bXjI1dAXJevyOotE94GhHRjZjbGx7UvaWidjIc3d0RZKRXzjC34X4l2725FQ_qB-p6qYTXwpBEgS7paR37ngokt6IELGSmkyh0Yf6Wv5RBx7TihNbsLvisf5qvyguPYwhawAFs7nMTPH9lf50451aMDn60wRaA=w529-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEvQestxJ3FQDvxccKnnV5M12lxmpeUPNUMcsQ4bXjI1dAXJevyOotE94GhHRjZjbGx7UvaWidjIc3d0RZKRXzjC34X4l2725FQ_qB-p6qYTXwpBEgS7paR37ngokt6IELGSmkyh0Yf6Wv5RBx7TihNbsLvisf5qvyguPYwhawAFs7nMTPH9lf50451aMDn60wRaA=w529-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Er1PqJQLkn070QfZk5bLTw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=97.71999&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG-0Lx_tbD4KEUlCkr3dOMmTnaxqg_sX2waiwR6KYmXb-CH0H83QwfGKs-SpVywhvZkfTVK_IKlD6thuCHtxEnlTgRVOhjsbZn5VoEkP4G2l6qhrej9to88LoxupejUxGf-Ozik6h21dGXq_MikLPXOdcX4kV78wVBJIBvpSwie7GBhZ91vuGOBMGYAiCO42m3Tuyo=w426-h240-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "भिमसेनगोला मार्ग",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEvQestxJ3FQDvxccKnnV5M12lxmpeUPNUMcsQ4bXjI1dAXJevyOotE94GhHRjZjbGx7UvaWidjIc3d0RZKRXzjC34X4l2725FQ_qB-p6qYTXwpBEgS7paR37ngokt6IELGSmkyh0Yf6Wv5RBx7TihNbsLvisf5qvyguPYwhawAFs7nMTPH9lf50451aMDn60wRaA=w529-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Er1PqJQLkn070QfZk5bLTw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=97.71999&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "7–11 AM",
+        "2–8 PM"
+      ],
+      "Monday": [
+        "7–11 AM",
+        "2–8 PM"
+      ],
+      "Saturday": [
+        "7–11 AM",
+        "2–8 PM"
+      ],
+      "Sunday": [
+        "7–11 AM",
+        "2–8 PM"
+      ],
+      "Thursday": [
+        "7–11 AM",
+        "2–8 PM"
+      ],
+      "Tuesday": [
+        "7–11 AM",
+        "2–8 PM"
+      ],
+      "Wednesday": [
+        "7–11 AM",
+        "2–8 PM"
+      ]
+    },
+    "avgRatings": 0,
+    "reviewCount": 0,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "popularTimes": {
+      "Friday": {
+        "6": 0,
+        "7": 73,
+        "8": 60,
+        "9": 86,
+        "10": 80,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 100,
+        "15": 86,
+        "16": 73,
+        "17": 80,
+        "18": 80,
+        "19": 66,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Monday": {
+        "6": 0,
+        "7": 6,
+        "8": 6,
+        "9": 6,
+        "10": 26,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 26,
+        "15": 13,
+        "16": 26,
+        "17": 53,
+        "18": 40,
+        "19": 26,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Saturday": {
+        "6": 0,
+        "7": 33,
+        "8": 26,
+        "9": 13,
+        "10": 20,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 40,
+        "15": 13,
+        "16": 0,
+        "17": 6,
+        "18": 26,
+        "19": 26,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Sunday": {
+        "6": 0,
+        "7": 26,
+        "8": 20,
+        "9": 26,
+        "10": 26,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 40,
+        "15": 33,
+        "16": 33,
+        "17": 40,
+        "18": 33,
+        "19": 26,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Thursday": {
+        "6": 0,
+        "7": 86,
+        "8": 66,
+        "9": 46,
+        "10": 46,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 20,
+        "15": 40,
+        "16": 33,
+        "17": 40,
+        "18": 26,
+        "19": 20,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Tuesday": {
+        "6": 0,
+        "7": 33,
+        "8": 53,
+        "9": 53,
+        "10": 60,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 73,
+        "15": 66,
+        "16": 60,
+        "17": 40,
+        "18": 26,
+        "19": 20,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Wednesday": {
+        "6": 0,
+        "7": 66,
+        "8": 53,
+        "9": 46,
+        "10": 33,
+        "11": 0,
+        "12": 0,
+        "13": 0,
+        "14": 46,
+        "15": 33,
+        "16": 66,
+        "17": 66,
+        "18": 86,
+        "19": 66,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      }
+    },
+    "userReviews": [],
+    "priceRange": null,
+    "plusCode": "M8QV+V4 Kathmandu",
+    "timezone": "Asia/Katmandu",
+    "cid": "10630534078482163160",
+    "location": {
+      "lat": 27.689728,
+      "lng": 85.342774
+    }
+  },
+  {
+    "name": "Sanjeevani Pharma",
+    "contact": "984-1461319",
+    "email": null,
+    "address": "M8QR+6GR Sanjeevani Pharma, मिनभवन ३४, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHypnUAKXx_h9_mGmhsPKe_-MSNZe426370KEAb1EpqEnOvJW6t-A3AjjsDV542wJtzKku_BUqLhwwpmj4GczUSrbAKDnxVKzbnYLAHIn11YV30uLBRgvuOOcmQI5JiFMmX8PaQ_RWMMT4N5XyP7cMEHuwKC-65AybJAl6mN7TGXvBmU517L0oe1pnltbm1XwbLIo0=w529-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHypnUAKXx_h9_mGmhsPKe_-MSNZe426370KEAb1EpqEnOvJW6t-A3AjjsDV542wJtzKku_BUqLhwwpmj4GczUSrbAKDnxVKzbnYLAHIn11YV30uLBRgvuOOcmQI5JiFMmX8PaQ_RWMMT4N5XyP7cMEHuwKC-65AybJAl6mN7TGXvBmU517L0oe1pnltbm1XwbLIo0=w529-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h8ktt-2Yqk8wy1x2gjnwrg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=144.10089&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGXjaClNtvGn3jrQ8ADSBuZNqRlvVpxTB2xwstwTPje1DzqZOZhGdMAqX_PUBUKILwEov2flw1BKOCST-bIRmU410BDVXaLtNrr0lrFzHAhT_5XOp8iWb0RH13f_e-Nz616ADENZRHo70qbsCpJ8YB77oBHcoA_VWyzqfPsFxHKrrt0R8qMFRjrUvCCW3utXec3Lw=w426-h240-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "M8QR+6GR, मिनभवन ३४",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHypnUAKXx_h9_mGmhsPKe_-MSNZe426370KEAb1EpqEnOvJW6t-A3AjjsDV542wJtzKku_BUqLhwwpmj4GczUSrbAKDnxVKzbnYLAHIn11YV30uLBRgvuOOcmQI5JiFMmX8PaQ_RWMMT4N5XyP7cMEHuwKC-65AybJAl6mN7TGXvBmU517L0oe1pnltbm1XwbLIo0=w529-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=h8ktt-2Yqk8wy1x2gjnwrg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=144.10089&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {},
+    "avgRatings": 3.5,
+    "reviewCount": 2,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 1,
+      "5": 0
+    },
+    "popularTimes": {},
+    "userReviews": [
+      {
+        "Name": "RJ Ram Prasad Pandit (RJ)",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjXZ6RSMPdaBudXKYtVAZms0TZ0n2cLhXAHsMtY6YEkK3TnXihehdw=s120-c-rp-mo-ba4-br100",
+        "Rating": 4,
+        "Description": "Nice",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Gamer_Emipal",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjXja4b6w6v5YpYIVVH4LRYFBeb8j7tT2YHoNeVkdXU4RbUNhUvZ=s120-c-rp-mo-ba3-br100",
+        "Rating": 3,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": null,
+    "timezone": "Asia/Katmandu",
+    "cid": "9134592598925951704",
+    "location": {
+      "lat": 27.688122,
+      "lng": 85.341277
+    }
+  },
+  {
+    "name": "Daraudi pharmacy",
+    "contact": "984-6490506",
+    "email": null,
+    "address": "Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/p/AF1QipP_nXPjEOv95K00FHPuoD-L34B-1oBaXz_d6lOr=w224-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/p/AF1QipP_nXPjEOv95K00FHPuoD-L34B-1oBaXz_d6lOr=w224-h298-k-no",
+    "buildingImageUrl": "https://lh3.googleusercontent.com/p/AF1QipOlzD_ehvqQ3XRqwmM3VNNU-w8kX6qPD6vG1-p5=w397-h298-k-no",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipP_nXPjEOv95K00FHPuoD-L34B-1oBaXz_d6lOr=w408-h544-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": null,
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/p/AF1QipP_nXPjEOv95K00FHPuoD-L34B-1oBaXz_d6lOr=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOlzD_ehvqQ3XRqwmM3VNNU-w8kX6qPD6vG1-p5=w397-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XVoi1vScPsCEgxgdUm7jNA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=31.083187&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "7 AM–9 PM"
+      ],
+      "Monday": [
+        "7 AM–9 PM"
+      ],
+      "Saturday": [
+        "8 AM–8:30 PM"
+      ],
+      "Sunday": [
+        "7 AM–9 PM"
+      ],
+      "Thursday": [
+        "7 AM–9 PM"
+      ],
+      "Tuesday": [
+        "7 AM–9 PM"
+      ],
+      "Wednesday": [
+        "7 AM–9 PM"
+      ]
+    },
+    "avgRatings": 0,
+    "reviewCount": 0,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "popularTimes": {},
+    "userReviews": [],
+    "priceRange": null,
+    "plusCode": "M8RR+JR Kathmandu",
+    "timezone": "Asia/Katmandu",
+    "cid": "4831596596095234433",
+    "location": {
+      "lat": 27.69152,
+      "lng": 85.342049
+    }
+  },
+  {
+    "name": "Uniglobe Pharma",
+    "contact": "982-7429704",
+    "email": null,
+    "address": "Minbhawan Marg, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/p/AF1QipNsRwe9c8JEus9LEq9n1S8CmHGmF140Y9v13Bdk=w397-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/p/AF1QipNsRwe9c8JEus9LEq9n1S8CmHGmF140Y9v13Bdk=w397-h298-k-no",
+    "buildingImageUrl": "https://lh3.googleusercontent.com/p/AF1QipNsRwe9c8JEus9LEq9n1S8CmHGmF140Y9v13Bdk=w397-h298-k-no",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipNsRwe9c8JEus9LEq9n1S8CmHGmF140Y9v13Bdk=w408-h306-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "Minbhawan Marg",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/p/AF1QipNsRwe9c8JEus9LEq9n1S8CmHGmF140Y9v13Bdk=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipNsRwe9c8JEus9LEq9n1S8CmHGmF140Y9v13Bdk=w397-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=svaAySx9RCWWEefcA7_ObQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=250.20134&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "6 AM–9:30 PM"
+      ],
+      "Monday": [
+        "6 AM–9:30 PM"
+      ],
+      "Saturday": [
+        "6 AM–9:30 PM"
+      ],
+      "Sunday": [
+        "6 AM–9:30 PM"
+      ],
+      "Thursday": [
+        "6 AM–9:30 PM"
+      ],
+      "Tuesday": [
+        "6 AM–9:30 PM"
+      ],
+      "Wednesday": [
+        "6 AM–9:30 PM"
+      ]
+    },
+    "avgRatings": 4.1,
+    "reviewCount": 10,
+    "reviewsPerRating": {
+      "1": 2,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 7
+    },
+    "popularTimes": {
+      "Friday": {
+        "5": 0,
+        "6": 55,
+        "7": 52,
+        "8": 52,
+        "9": 65,
+        "10": 70,
+        "11": 57,
+        "12": 55,
+        "13": 60,
+        "14": 67,
+        "15": 72,
+        "16": 80,
+        "17": 77,
+        "18": 100,
+        "19": 82,
+        "20": 82,
+        "21": 62,
+        "22": 0
+      },
+      "Monday": {
+        "5": 0,
+        "6": 50,
+        "7": 45,
+        "8": 60,
+        "9": 70,
+        "10": 65,
+        "11": 52,
+        "12": 60,
+        "13": 52,
+        "14": 57,
+        "15": 57,
+        "16": 65,
+        "17": 60,
+        "18": 57,
+        "19": 50,
+        "20": 40,
+        "21": 45,
+        "22": 0
+      },
+      "Saturday": {
+        "5": 0,
+        "6": 62,
+        "7": 45,
+        "8": 30,
+        "9": 25,
+        "10": 22,
+        "11": 37,
+        "12": 50,
+        "13": 70,
+        "14": 65,
+        "15": 52,
+        "16": 45,
+        "17": 30,
+        "18": 30,
+        "19": 37,
+        "20": 40,
+        "21": 45,
+        "22": 0
+      },
+      "Sunday": {
+        "5": 0,
+        "6": 50,
+        "7": 45,
+        "8": 50,
+        "9": 47,
+        "10": 37,
+        "11": 40,
+        "12": 40,
+        "13": 47,
+        "14": 57,
+        "15": 82,
+        "16": 97,
+        "17": 80,
+        "18": 65,
+        "19": 57,
+        "20": 65,
+        "21": 67,
+        "22": 0
+      },
+      "Thursday": {
+        "5": 0,
+        "6": 52,
+        "7": 47,
+        "8": 45,
+        "9": 65,
+        "10": 72,
+        "11": 65,
+        "12": 62,
+        "13": 62,
+        "14": 65,
+        "15": 62,
+        "16": 55,
+        "17": 35,
+        "18": 35,
+        "19": 32,
+        "20": 27,
+        "21": 35,
+        "22": 0
+      },
+      "Tuesday": {
+        "5": 0,
+        "6": 20,
+        "7": 35,
+        "8": 47,
+        "9": 70,
+        "10": 75,
+        "11": 72,
+        "12": 75,
+        "13": 62,
+        "14": 52,
+        "15": 50,
+        "16": 55,
+        "17": 57,
+        "18": 55,
+        "19": 47,
+        "20": 42,
+        "21": 45,
+        "22": 0
+      },
+      "Wednesday": {
+        "5": 0,
+        "6": 75,
+        "7": 52,
+        "8": 47,
+        "9": 52,
+        "10": 77,
+        "11": 82,
+        "12": 70,
+        "13": 62,
+        "14": 52,
+        "15": 67,
+        "16": 80,
+        "17": 90,
+        "18": 80,
+        "19": 85,
+        "20": 77,
+        "21": 47,
+        "22": 0
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "Miss Aries",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjUhyobg0TuLIurOfL9t964dz8xKl8s7KpFNhMz7EKYq2FQfxRIT=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "Awesome 😎",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Nilam Bhatta",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWEmj_uvRI_HHHGXdSGyNyYhS10By4jcWZMVbH0XiNFz9buqwe1lQ=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "Nice 👍",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Ar Un",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWqess8IGS1kJPsjCmpt3P9GjeQXrzdv6nP2L80vbt2tJPWRRTY=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "Good",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Sagar Belbase",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjULyflFL-SnIVqdwN65BQfG94W47YWgLVpoxgsXXHmLzLqkSL89=s120-c-rp-mo-br100",
+        "Rating": 1,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "GOVINDA MAHAT",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjV3scNXfLFGPoqXyqFa_MdzCIVnnq9vdNc11S12ssQ7anMo-oSZtw=s120-c-rp-mo-ba4-br100",
+        "Rating": 4,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Sudip Kandel",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjX9z6A5sRbE_prhbcMPhhNdLvu2aFTQ41q16wMeCEriotYLDxc=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Anjali Rana",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjVw9bcafkxyXKlII1LGcpChWoEQQevWGDnkELR8ZL5kYtHQvN4cRw=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Aastha Lama",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocK8RguxEHFPWvmOhbFsJobnTrwzUOSfCh2Z8dvXBdbETAh1KQ=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": "M8PQ+X7 Kathmandu",
+    "timezone": "Asia/Katmandu",
+    "cid": "4251944215852721652",
+    "location": {
+      "lat": 27.687439,
+      "lng": 85.338143
+    }
+  },
+  {
+    "name": "Saralikrit Pharmacy",
+    "contact": "01-4111701",
+    "email": null,
+    "address": "सुविधानगर मार्ग, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEH43jsAWNW-iiAAaAM1-O9cRJd3PvQyu2iQK2Z2NDFZgb9qsLfOJPEqcv95LKB9Igk-R-_tDk0Ahf0peuE3z7S2tUJjPYbcQmMDogO8oa8PvM8wTTsadut_62xbBaolGHgxOToVNd1QWbhC4ruBbi2Pfc53v34GrfU-q908rb7ZJA_5CNKStEpBgd8OP7xptRpu9c=w397-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEH43jsAWNW-iiAAaAM1-O9cRJd3PvQyu2iQK2Z2NDFZgb9qsLfOJPEqcv95LKB9Igk-R-_tDk0Ahf0peuE3z7S2tUJjPYbcQmMDogO8oa8PvM8wTTsadut_62xbBaolGHgxOToVNd1QWbhC4ruBbi2Pfc53v34GrfU-q908rb7ZJA_5CNKStEpBgd8OP7xptRpu9c=w397-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KimVR-rVBu6KGCr5Knz7OA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=131.1283&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHguUc7tFZIIpg7dlE-t7gsAN_jUZW7m-1CLMyI6WituxWNknY0rBgx_9plk3zGLEbaLJ2behe1aBTNo9Mt0nB6DVkm08eDuEdxUD9cmMFR2mGZ_16e_X4DTzRUVfmY2Q7ofJCl_dyuvdYB-z6lWY04zIlRlJiYSSq7em9bd8l4FUQfAS5QHpM2UzZ9MUAQsLiU8Kk=w408-h306-k-no",
+    "tagLine": null,
+    "website": "https://www.saralpharma.com/",
+    "description": null,
+    "isPickup": false,
+    "isDelivery": true,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "सुविधानगर मार्ग",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEH43jsAWNW-iiAAaAM1-O9cRJd3PvQyu2iQK2Z2NDFZgb9qsLfOJPEqcv95LKB9Igk-R-_tDk0Ahf0peuE3z7S2tUJjPYbcQmMDogO8oa8PvM8wTTsadut_62xbBaolGHgxOToVNd1QWbhC4ruBbi2Pfc53v34GrfU-q908rb7ZJA_5CNKStEpBgd8OP7xptRpu9c=w397-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=KimVR-rVBu6KGCr5Knz7OA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=131.1283&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "7 AM–9 PM"
+      ],
+      "Monday": [
+        "7 AM–9 PM"
+      ],
+      "Saturday": [
+        "7 AM–9 PM"
+      ],
+      "Sunday": [
+        "7 AM–9 PM"
+      ],
+      "Thursday": [
+        "7 AM–9 PM"
+      ],
+      "Tuesday": [
+        "7 AM–9 PM"
+      ],
+      "Wednesday": [
+        "7 AM–9 PM"
+      ]
+    },
+    "avgRatings": 3,
+    "reviewCount": 5,
+    "reviewsPerRating": {
+      "1": 1,
+      "2": 1,
+      "3": 0,
+      "4": 3,
+      "5": 0
+    },
+    "popularTimes": {
+      "Friday": {
+        "6": 0,
+        "7": 36,
+        "8": 60,
+        "9": 50,
+        "10": 57,
+        "11": 63,
+        "12": 63,
+        "13": 47,
+        "14": 39,
+        "15": 36,
+        "16": 44,
+        "17": 47,
+        "18": 52,
+        "19": 52,
+        "20": 57,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Monday": {
+        "6": 0,
+        "7": 44,
+        "8": 42,
+        "9": 44,
+        "10": 39,
+        "11": 57,
+        "12": 50,
+        "13": 55,
+        "14": 42,
+        "15": 34,
+        "16": 26,
+        "17": 31,
+        "18": 36,
+        "19": 55,
+        "20": 57,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Saturday": {
+        "6": 0,
+        "7": 81,
+        "8": 68,
+        "9": 68,
+        "10": 65,
+        "11": 63,
+        "12": 73,
+        "13": 65,
+        "14": 71,
+        "15": 63,
+        "16": 57,
+        "17": 36,
+        "18": 26,
+        "19": 31,
+        "20": 28,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Sunday": {
+        "6": 0,
+        "7": 52,
+        "8": 47,
+        "9": 50,
+        "10": 50,
+        "11": 52,
+        "12": 36,
+        "13": 36,
+        "14": 34,
+        "15": 44,
+        "16": 55,
+        "17": 60,
+        "18": 73,
+        "19": 86,
+        "20": 68,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Thursday": {
+        "6": 0,
+        "7": 73,
+        "8": 52,
+        "9": 42,
+        "10": 60,
+        "11": 92,
+        "12": 84,
+        "13": 57,
+        "14": 52,
+        "15": 47,
+        "16": 55,
+        "17": 60,
+        "18": 71,
+        "19": 71,
+        "20": 60,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Tuesday": {
+        "6": 0,
+        "7": 73,
+        "8": 47,
+        "9": 42,
+        "10": 50,
+        "11": 60,
+        "12": 52,
+        "13": 47,
+        "14": 55,
+        "15": 65,
+        "16": 65,
+        "17": 47,
+        "18": 42,
+        "19": 42,
+        "20": 47,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Wednesday": {
+        "6": 0,
+        "7": 42,
+        "8": 34,
+        "9": 47,
+        "10": 68,
+        "11": 100,
+        "12": 100,
+        "13": 84,
+        "14": 73,
+        "15": 71,
+        "16": 55,
+        "17": 42,
+        "18": 28,
+        "19": 26,
+        "20": 28,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "Robin Regmi",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjUqSWV58z2JcKFbvTdmEjfsizax7QOgvbVI0wYeAzrLB_GiW_vX=s120-c-rp-mo-ba5-br100",
+        "Rating": 4,
+        "Description": "One stop for all the medicines and medical equipment at a very reasonable price and good services.",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Biplab Gajurel",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjV8pBrJ6loK63b6pRqA_or36IKB7guC4WzQpoH6Zv_jeJkBwScq=s120-c-rp-mo-ba3-br100",
+        "Rating": 2,
+        "Description": "This place is not so good at all. They give discounts but the employees are not good at all. Rather they are rude and don't know how to talk to customers and provide decent service. Some of the employees are good and deal with customers nicely whereas some employees are the exact opposite to them. I hope that they really improve their service or else they might have to shut down their business. From a regular customers view, I can suggest them that, they must deal nicely with customers and attract more customers.",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "jagannath kandel",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWR9SYIDmhloF8SpV91fFBLzQn2DqnHG3xkW6-mYBTV1hid9M4=s120-c-rp-mo-ba6-br100",
+        "Rating": 4,
+        "Description": "Most of the medicines that you require are found here...",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Chhiring Sherpa",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocKPItMdHQto1d_ctOLGB8tGIJT07V9bcc8IYSp0xgv_UL1n8g=s120-c-rp-mo-br100",
+        "Rating": 1,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Parash Sunchauri",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWzSKS-pgRseWJKHqXtgRrfS2pWeq2MEVTKVG66hkWluVU4iJo=s120-c-rp-mo-ba3-br100",
+        "Rating": 4,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": "M8PV+7W Kathmandu",
+    "timezone": "Asia/Katmandu",
+    "cid": "9220581057315297851",
+    "location": {
+      "lat": 27.685661,
+      "lng": 85.344808
+    }
+  },
+  {
+    "name": "Divyakalash Pharmacy",
+    "contact": "984-9303448",
+    "email": null,
+    "address": "Minbhawan Marg, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzpZ4CCeRwL6E0YkGC0pBjavEdg_EzK13K_NriMCFVmkW-JcRHdDlAnUnSbCtk1czqnkEkaoMyBLJRzivmBtEr8nwT4qjEi2Yz1e31WaMd1G1ByPeObFNE7ig5YD4bU0QDBjqlP=w397-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzpZ4CCeRwL6E0YkGC0pBjavEdg_EzK13K_NriMCFVmkW-JcRHdDlAnUnSbCtk1czqnkEkaoMyBLJRzivmBtEr8nwT4qjEi2Yz1e31WaMd1G1ByPeObFNE7ig5YD4bU0QDBjqlP=w397-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=x5VjjrExsIdCAboQ12Nckg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=293.01685&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzpZ4CCeRwL6E0YkGC0pBjavEdg_EzK13K_NriMCFVmkW-JcRHdDlAnUnSbCtk1czqnkEkaoMyBLJRzivmBtEr8nwT4qjEi2Yz1e31WaMd1G1ByPeObFNE7ig5YD4bU0QDBjqlP=w408-h306-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "Minbhawan Marg",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzpZ4CCeRwL6E0YkGC0pBjavEdg_EzK13K_NriMCFVmkW-JcRHdDlAnUnSbCtk1czqnkEkaoMyBLJRzivmBtEr8nwT4qjEi2Yz1e31WaMd1G1ByPeObFNE7ig5YD4bU0QDBjqlP=w397-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=x5VjjrExsIdCAboQ12Nckg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=293.01685&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "6:30 AM–11 PM"
+      ],
+      "Monday": [
+        "6:30 AM–11 PM"
+      ],
+      "Saturday": [
+        "7 AM–10 PM"
+      ],
+      "Sunday": [
+        "6:30 AM–11 PM"
+      ],
+      "Thursday": [
+        "6:30 AM–11 PM"
+      ],
+      "Tuesday": [
+        "6:30 AM–11 PM"
+      ],
+      "Wednesday": [
+        "6:30 AM–11 PM"
+      ]
+    },
+    "avgRatings": 3.4,
+    "reviewCount": 9,
+    "reviewsPerRating": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 5,
+      "5": 1
+    },
+    "popularTimes": {
+      "Friday": {
+        "5": 0,
+        "6": 21,
+        "7": 21,
+        "8": 28,
+        "9": 35,
+        "10": 42,
+        "11": 57,
+        "12": 64,
+        "13": 78,
+        "14": 64,
+        "15": 50,
+        "16": 35,
+        "17": 42,
+        "18": 21,
+        "19": 28,
+        "20": 28,
+        "21": 35,
+        "22": 57
+      },
+      "Monday": {
+        "5": 0,
+        "6": 64,
+        "7": 100,
+        "8": 92,
+        "9": 78,
+        "10": 35,
+        "11": 21,
+        "12": 14,
+        "13": 35,
+        "14": 57,
+        "15": 64,
+        "16": 57,
+        "17": 28,
+        "18": 28,
+        "19": 35,
+        "20": 28,
+        "21": 42,
+        "22": 42
+      },
+      "Saturday": {
+        "6": 0,
+        "7": 42,
+        "8": 57,
+        "9": 71,
+        "10": 71,
+        "11": 78,
+        "12": 42,
+        "13": 28,
+        "14": 28,
+        "15": 35,
+        "16": 35,
+        "17": 42,
+        "18": 64,
+        "19": 85,
+        "20": 64,
+        "21": 50,
+        "22": 0,
+        "23": 0
+      },
+      "Sunday": {
+        "5": 0,
+        "6": 64,
+        "7": 57,
+        "8": 42,
+        "9": 28,
+        "10": 28,
+        "11": 35,
+        "12": 57,
+        "13": 57,
+        "14": 71,
+        "15": 42,
+        "16": 35,
+        "17": 28,
+        "18": 28,
+        "19": 35,
+        "20": 42,
+        "21": 42,
+        "22": 42
+      },
+      "Thursday": {
+        "5": 0,
+        "6": 28,
+        "7": 21,
+        "8": 21,
+        "9": 28,
+        "10": 57,
+        "11": 64,
+        "12": 71,
+        "13": 78,
+        "14": 64,
+        "15": 42,
+        "16": 57,
+        "17": 64,
+        "18": 50,
+        "19": 21,
+        "20": 14,
+        "21": 21,
+        "22": 14
+      },
+      "Tuesday": {
+        "5": 0,
+        "6": 50,
+        "7": 42,
+        "8": 28,
+        "9": 28,
+        "10": 42,
+        "11": 71,
+        "12": 71,
+        "13": 64,
+        "14": 42,
+        "15": 28,
+        "16": 14,
+        "17": 28,
+        "18": 35,
+        "19": 35,
+        "20": 21,
+        "21": 21,
+        "22": 21
+      },
+      "Wednesday": {
+        "5": 0,
+        "6": 50,
+        "7": 64,
+        "8": 78,
+        "9": 78,
+        "10": 64,
+        "11": 71,
+        "12": 64,
+        "13": 57,
+        "14": 57,
+        "15": 71,
+        "16": 92,
+        "17": 85,
+        "18": 85,
+        "19": 50,
+        "20": 35,
+        "21": 28,
+        "22": 64
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "Rajan Yadav",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWpOqS5MmKabbrhh8wIYhKJJ5hw47l_RCWkETB9XbCeqWdydkpQ=s120-c-rp-mo-br100",
+        "Rating": 1,
+        "Description": "This pharmacy is not good i returned the medicine bute the didn't give me refund yet.\nEverytime i call he blocked the num and he is not willing to return my money. Very irresponsible person 😡",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Rudra Singh",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJICTN8LK0MVpO8Gm79356GjgEfy8pHvVIbJyPWXnWYOiTKXg=s120-c-rp-mo-br100",
+        "Rating": 4,
+        "Description": "Nice",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Rajan Dahal",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWY5STJ_6b5twWNfeROtiTQW5DKCfIdj99g2OtVdxUQL2JnI_56MA=s120-c-rp-mo-ba8-br100",
+        "Rating": 5,
+        "Description": "Pharmacy.",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Abhishek Ale",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjXH-CSCd1NikXusA8fx-6l303EnoUGZKGd9SEQfee5yp_h97C2A=s120-c-rp-mo-br100",
+        "Rating": 2,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Prakash Adhikari",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjVuu956CDDe1PhU379ZcM5tTg_EYso664NYbPutR2xE-tL2rhCruA=s120-c-rp-mo-ba5-br100",
+        "Rating": 4,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Vishwa Singh",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocLPjFmd_irZiKogwd5UjVt8XNw7TDmRhvjgc8f26a9zWMhFEg=s120-c-rp-mo-br100",
+        "Rating": 4,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Anand Singh",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocLekdjdArodJUE8grtGRZobJiJE2SnlpCKIgx4ss69dZeCXpw=s120-c-rp-mo-br100",
+        "Rating": 4,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "anand singh",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjXNWFjR_491hwxQwhmev6363j9gTbMdfhhUV6SnnruAoYJ0dX0=s120-c-rp-mo-br100",
+        "Rating": 4,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": "M8PQ+R7 Kathmandu",
+    "timezone": "Asia/Katmandu",
+    "cid": "8554014188993882199",
+    "location": {
+      "lat": 27.687065,
+      "lng": 85.338171
+    }
+  },
+  {
+    "name": "Shantinagar Pharmacy",
+    "contact": null,
+    "email": null,
+    "address": "M8PR+RVQ Shantinagar Pharmacy, मिनभवन मार्ग, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG99IeCXw8q1DhXHDVx5zlzfRQNgh1tHzxE3ni0L-BA80wilw1faC6RGHkxn57vBoJrzaj1JzaZxWCvYiO8y1Wnu5OOrOTXgOM2yhaOkjmQ9lSPFrwHQwq3TypEgg_e7jDncpllmWkazJYB0WGfENJGNUYt2vgqBbzwjgzWHCJqSMzNFqR-L8KLby_3MC1QU9lsJKQ=w397-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG99IeCXw8q1DhXHDVx5zlzfRQNgh1tHzxE3ni0L-BA80wilw1faC6RGHkxn57vBoJrzaj1JzaZxWCvYiO8y1Wnu5OOrOTXgOM2yhaOkjmQ9lSPFrwHQwq3TypEgg_e7jDncpllmWkazJYB0WGfENJGNUYt2vgqBbzwjgzWHCJqSMzNFqR-L8KLby_3MC1QU9lsJKQ=w397-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tni6CAzJ2hM1j5ZUvZqHYA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=1.594432&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHYATIU_H9gY2ppY_edSbtELgDKArYNR5ToejiPt2qqqOkWA-LSRNEwxw3Kc9_7NT1sVRWH3sq1ypET0mgUZPyxNam2nnSiRzQgtXXsJ0lTrYLWbPMvCB3-MgmNgFf6Z9FnO20GWy8Az3iMpOGIFIl3jIL78m9Phz7o6BdEMpXhYWldE8LF9nP95zTchdQbxa2d3tU=w408-h306-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "M8PR+RVQ, मिनभवन मार्ग",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhG99IeCXw8q1DhXHDVx5zlzfRQNgh1tHzxE3ni0L-BA80wilw1faC6RGHkxn57vBoJrzaj1JzaZxWCvYiO8y1Wnu5OOrOTXgOM2yhaOkjmQ9lSPFrwHQwq3TypEgg_e7jDncpllmWkazJYB0WGfENJGNUYt2vgqBbzwjgzWHCJqSMzNFqR-L8KLby_3MC1QU9lsJKQ=w397-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tni6CAzJ2hM1j5ZUvZqHYA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=1.594432&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {},
+    "avgRatings": 5,
+    "reviewCount": 1,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1
+    },
+    "popularTimes": {},
+    "userReviews": [
+      {
+        "Name": "NAVIN PUN MAGAR",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjVm0es_hKYBAq3jLgNWxKXro_6ICWQL_gcHiYAdFQcPseM7Oxc=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": null,
+    "timezone": "Asia/Katmandu",
+    "cid": "395779525961759447",
+    "location": {
+      "lat": 27.687076,
+      "lng": 85.342235
+    }
+  },
+  {
+    "name": "Jaya Kalika Pharma",
+    "contact": "01-4107680",
+    "email": null,
+    "address": "Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/p/AF1QipMojMtt8f213SJRmrwnq5-GAdD9rrtJwkn7ldIn=w224-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/p/AF1QipMojMtt8f213SJRmrwnq5-GAdD9rrtJwkn7ldIn=w224-h298-k-no",
+    "buildingImageUrl": "https://lh3.googleusercontent.com/p/AF1QipMojMtt8f213SJRmrwnq5-GAdD9rrtJwkn7ldIn=w224-h298-k-no",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMojMtt8f213SJRmrwnq5-GAdD9rrtJwkn7ldIn=w408-h544-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": null,
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/p/AF1QipMojMtt8f213SJRmrwnq5-GAdD9rrtJwkn7ldIn=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMojMtt8f213SJRmrwnq5-GAdD9rrtJwkn7ldIn=w224-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=zAGKGSugT_Ty8n1-yJEKEg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=124.729675&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "7–11 AM",
+        "3–8 PM"
+      ],
+      "Monday": [
+        "7–11 AM",
+        "3–8 PM"
+      ],
+      "Saturday": [
+        "7–11 AM",
+        "3–8 PM"
+      ],
+      "Sunday": [
+        "7–11 AM",
+        "3–8 PM"
+      ],
+      "Thursday": [
+        "7–11 AM",
+        "3–8 PM"
+      ],
+      "Tuesday": [
+        "7–11 AM",
+        "3–8 PM"
+      ],
+      "Wednesday": [
+        "7–11 AM",
+        "3–8 PM"
+      ]
+    },
+    "avgRatings": 4.5,
+    "reviewCount": 2,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 1
+    },
+    "popularTimes": {},
+    "userReviews": [
+      {
+        "Name": "Bijay Kumar Shah",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocLx-AfyfLAgOrFNotKsuTekSjrXx3JpiDfn8SB3w14wKS2xqCc=s120-c-rp-mo-ba4-br100",
+        "Rating": 5,
+        "Description": "Good medical checkup and environment is friendly...",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Sangeet Kayastha",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjV-Tg5fyjsalUbZCqp1IGxR5HVSP_bV39h4WeDiCnFqJvld-7qLjg=s120-c-rp-mo-ba5-br100",
+        "Rating": 4,
+        "Description": "Small medical center but friendly staff",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": "M8QV+HX Kathmandu",
+    "timezone": "Asia/Katmandu",
+    "cid": "793050199170995833",
+    "location": {
+      "lat": 27.688939,
+      "lng": 85.344932
+    }
+  },
+  {
+    "name": "ekdanta Pharmacy",
+    "contact": null,
+    "email": null,
+    "address": "M8PR+MR6 ekdanta Pharmacy, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyNgoN4zUSc3lHkO6QnJkDKxzCfgd-4F719D-M9jEMUmB4PjkxXV10dCW3YwsQevPzzaOdHDrKrbmrTCWSg4-sricbZG72DY3g7Bis-nI4ao6b-VoGPsb9EINK3BZOg4kuXEIotDQ=w224-h473-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyNgoN4zUSc3lHkO6QnJkDKxzCfgd-4F719D-M9jEMUmB4PjkxXV10dCW3YwsQevPzzaOdHDrKrbmrTCWSg4-sricbZG72DY3g7Bis-nI4ao6b-VoGPsb9EINK3BZOg4kuXEIotDQ=w224-h473-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7tpgY1QHbWYfl28t6ck0Jg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=174.336&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyNgoN4zUSc3lHkO6QnJkDKxzCfgd-4F719D-M9jEMUmB4PjkxXV10dCW3YwsQevPzzaOdHDrKrbmrTCWSg4-sricbZG72DY3g7Bis-nI4ao6b-VoGPsb9EINK3BZOg4kuXEIotDQ=w408-h861-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "M8PR+MR6",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyNgoN4zUSc3lHkO6QnJkDKxzCfgd-4F719D-M9jEMUmB4PjkxXV10dCW3YwsQevPzzaOdHDrKrbmrTCWSg4-sricbZG72DY3g7Bis-nI4ao6b-VoGPsb9EINK3BZOg4kuXEIotDQ=w224-h473-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7tpgY1QHbWYfl28t6ck0Jg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=174.336&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {},
+    "avgRatings": 5,
+    "reviewCount": 1,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1
+    },
+    "popularTimes": {},
+    "userReviews": [
+      {
+        "Name": "Sneha Katuwal",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocK3ZKxgfG7Ach4I-2Dx3r97YvYuxonhJyA3z0O23yk5gr--bA=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": null,
+    "timezone": "Asia/Katmandu",
+    "cid": "1089200608854963914",
+    "location": {
+      "lat": 27.686671,
+      "lng": 85.342009
+    }
+  },
+  {
+    "name": "Juventas Pharmacy",
+    "contact": "988-6158419",
+    "email": null,
+    "address": "M8PR+8G8 Juventas Pharmacy, Alok Tara Marg, Kathmandu 44600",
+    "avatarUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nLXE-qIpA9lF2_EABmGHrQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=163.43912&pitch=0&thumbfov=100",
+    "coverImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nLXE-qIpA9lF2_EABmGHrQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=163.43912&pitch=0&thumbfov=100",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nLXE-qIpA9lF2_EABmGHrQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=163.43912&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nLXE-qIpA9lF2_EABmGHrQ&cb_client=search.gws-prod.gps&w=408&h=240&yaw=163.43912&pitch=0&thumbfov=100",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "M8PR+8G8, Alok Tara Marg",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nLXE-qIpA9lF2_EABmGHrQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=163.43912&pitch=0&thumbfov=100",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=nLXE-qIpA9lF2_EABmGHrQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=163.43912&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "8 AM–6 PM"
+      ],
+      "Monday": [
+        "8 AM–6 PM"
+      ],
+      "Saturday": [
+        "8 AM–6 PM"
+      ],
+      "Sunday": [
+        "8 AM–6 PM"
+      ],
+      "Thursday": [
+        "8 AM–6 PM"
+      ],
+      "Tuesday": [
+        "8 AM–6 PM"
+      ],
+      "Wednesday": [
+        "8 AM–6 PM"
+      ]
+    },
+    "avgRatings": 4,
+    "reviewCount": 4,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 1,
+      "5": 2
+    },
+    "popularTimes": {},
+    "userReviews": [
+      {
+        "Name": "Naveen Kunwar",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjV5w6y-oJ5btfsrVy6xQEMsJtwFvbPqURzMyK6MyKjyFEbTo18AxQ=s120-c-rp-mo-ba3-br100",
+        "Rating": 5,
+        "Description": "✅✅",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "ᗪᕼIᖇᗩᒍ ᗷᕼᗩᑎᗪᗩᖇI",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWjxqVCdkg2vk6q5HegKNKy39ahGA7vMFEyJMLwo-447KYrLpcT=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "prithivi Koju",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWyr5skhRu3pnziIyvNmdhME-TN3fRMBXamqI3p5RYV20ybIRRpeg=s120-c-rp-mo-br100",
+        "Rating": 2,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Shishir Gyawali",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocLU7QjsgeicfjV_GME8iIUfnyFFRl7rO5y3Mzg3UjrYUikuYfo=s120-c-rp-mo-br100",
+        "Rating": 4,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": null,
+    "timezone": "Asia/Katmandu",
+    "cid": "5378414823179985841",
+    "location": {
+      "lat": 27.685793,
+      "lng": 85.341329
+    }
+  },
+  {
+    "name": "Christian Medical Spera impeksa Pvt. LTD.",
+    "contact": null,
+    "email": null,
+    "address": "M8RQ+84P Christian Medical Spera impeksa Pvt. LTD., बिभुति जनक मार्ग, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFfB5MqiNt7mOFEkDc_-3Xq3gOnn_PPRH_WhQOlMK8c5sqiOhuDRI-h4XqxcpWZ3U7gQYFES2h4l0BsK_WLa_pD4uAVWk1by9OLsK1Yzfg2-X6X8yhrNe7gYqPaIZ4uPNHmsjeDuS5iwtyO3QIjfrN8KBcLIpy6OJN8xqMcL7iViypyHNKPv7dDReM0-9B7eDVS9w=w529-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFfB5MqiNt7mOFEkDc_-3Xq3gOnn_PPRH_WhQOlMK8c5sqiOhuDRI-h4XqxcpWZ3U7gQYFES2h4l0BsK_WLa_pD4uAVWk1by9OLsK1Yzfg2-X6X8yhrNe7gYqPaIZ4uPNHmsjeDuS5iwtyO3QIjfrN8KBcLIpy6OJN8xqMcL7iViypyHNKPv7dDReM0-9B7eDVS9w=w529-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tY7my2ZLqfJOaSlxpWciuQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=2.3846796&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEsiptv6VLSpQU7NPcvTG5_xYtRxOb-XWqwL83rgXlUHwgMIVRLkcFwF1CqyweX5l1-8vLB4HzYHzUHuQAvqDnYRjLRE9zofutaJrF_sgNIAdPsu7GGvGCC_vsAHyws9KF_FFHf_xqNo_zz7Uo-J0yAYj4Owdwv5wG2juAsXfgaFXGteM83u857_bPrWmVdwCjRXVg=w426-h240-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "M8RQ+84P, बिभुति जनक मार्ग",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFfB5MqiNt7mOFEkDc_-3Xq3gOnn_PPRH_WhQOlMK8c5sqiOhuDRI-h4XqxcpWZ3U7gQYFES2h4l0BsK_WLa_pD4uAVWk1by9OLsK1Yzfg2-X6X8yhrNe7gYqPaIZ4uPNHmsjeDuS5iwtyO3QIjfrN8KBcLIpy6OJN8xqMcL7iViypyHNKPv7dDReM0-9B7eDVS9w=w529-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=tY7my2ZLqfJOaSlxpWciuQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=2.3846796&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "8 AM–8 PM"
+      ],
+      "Monday": [
+        "8 AM–8 PM"
+      ],
+      "Saturday": [
+        "8 AM–8 PM"
+      ],
+      "Sunday": [
+        "8 AM–8 PM"
+      ],
+      "Thursday": [
+        "8 AM–8 PM"
+      ],
+      "Tuesday": [
+        "8 AM–8 PM"
+      ],
+      "Wednesday": [
+        "8 AM–8 PM"
+      ]
+    },
+    "avgRatings": 0,
+    "reviewCount": 0,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "popularTimes": {
+      "Friday": {
+        "6": 0,
+        "7": 0,
+        "8": 83,
+        "9": 66,
+        "10": 83,
+        "11": 58,
+        "12": 25,
+        "13": 16,
+        "14": 16,
+        "15": 33,
+        "16": 25,
+        "17": 41,
+        "18": 33,
+        "19": 25,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Monday": {
+        "6": 0,
+        "7": 0,
+        "8": 33,
+        "9": 41,
+        "10": 75,
+        "11": 100,
+        "12": 83,
+        "13": 75,
+        "14": 66,
+        "15": 58,
+        "16": 66,
+        "17": 66,
+        "18": 66,
+        "19": 66,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Saturday": {
+        "6": 0,
+        "7": 0,
+        "8": 33,
+        "9": 41,
+        "10": 16,
+        "11": 16,
+        "12": 16,
+        "13": 33,
+        "14": 33,
+        "15": 58,
+        "16": 75,
+        "17": 83,
+        "18": 83,
+        "19": 58,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Sunday": {
+        "6": 0,
+        "7": 0,
+        "8": 58,
+        "9": 91,
+        "10": 58,
+        "11": 50,
+        "12": 58,
+        "13": 58,
+        "14": 83,
+        "15": 58,
+        "16": 50,
+        "17": 50,
+        "18": 33,
+        "19": 16,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Thursday": {
+        "6": 0,
+        "7": 0,
+        "8": 50,
+        "9": 16,
+        "10": 25,
+        "11": 41,
+        "12": 66,
+        "13": 91,
+        "14": 100,
+        "15": 75,
+        "16": 50,
+        "17": 58,
+        "18": 50,
+        "19": 41,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Tuesday": {
+        "6": 0,
+        "7": 0,
+        "8": 58,
+        "9": 33,
+        "10": 66,
+        "11": 83,
+        "12": 50,
+        "13": 41,
+        "14": 25,
+        "15": 33,
+        "16": 33,
+        "17": 25,
+        "18": 16,
+        "19": 16,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Wednesday": {
+        "6": 0,
+        "7": 0,
+        "8": 41,
+        "9": 50,
+        "10": 33,
+        "11": 41,
+        "12": 33,
+        "13": 41,
+        "14": 66,
+        "15": 66,
+        "16": 58,
+        "17": 33,
+        "18": 25,
+        "19": 33,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      }
+    },
+    "userReviews": [],
+    "priceRange": null,
+    "plusCode": null,
+    "timezone": "Asia/Katmandu",
+    "cid": "3046040969043558157",
+    "location": {
+      "lat": 27.690842,
+      "lng": 85.337836
+    }
+  },
+  {
+    "name": "Sukhad Pharmacy",
+    "contact": "01-4107035",
+    "email": null,
+    "address": "M8PQ+V63 Sukhad Pharmacy, मिनभवन मार्ग, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGfDJlRXwsHF-HIk7ajV97fu6OwBa9dYG-bAkN4GfjT3PsRiCV-O4XR6yDzL6oE4a0ErSZHvR0HrCibL3kicOaEPYDwieXLAXaGCKApZhF5IXQWmLiQOcH2hikLUPQzefEzxDCQi58BrFfTR1KZOt9irygSwiVYi_x8onGCvgQ_-lMyLdRfDNXPKbL5eJU_hxUPiRA=w529-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGfDJlRXwsHF-HIk7ajV97fu6OwBa9dYG-bAkN4GfjT3PsRiCV-O4XR6yDzL6oE4a0ErSZHvR0HrCibL3kicOaEPYDwieXLAXaGCKApZhF5IXQWmLiQOcH2hikLUPQzefEzxDCQi58BrFfTR1KZOt9irygSwiVYi_x8onGCvgQ_-lMyLdRfDNXPKbL5eJU_hxUPiRA=w529-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8JhLYR7kqQdeC830NziG4A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=275.47556&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGMDQ9idag_C5uvWp83Zsilw9I1E--wkyRhmd_snjkyfNCrsSgXTMEWWd-I6gb9ankqz1ANRAaKQFBILzlIcNtmVgb0jDvACD3tnaW2kWUeQA6tQS1nERiMUjRazTi6BClpg6RABdW-qSyJxaePP7ndR4Uiid1powF35lDNd80whtiZk2BGyUowoIgxG0GxG62ztB8=w426-h240-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "M8PQ+V63, मिनभवन मार्ग",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGfDJlRXwsHF-HIk7ajV97fu6OwBa9dYG-bAkN4GfjT3PsRiCV-O4XR6yDzL6oE4a0ErSZHvR0HrCibL3kicOaEPYDwieXLAXaGCKApZhF5IXQWmLiQOcH2hikLUPQzefEzxDCQi58BrFfTR1KZOt9irygSwiVYi_x8onGCvgQ_-lMyLdRfDNXPKbL5eJU_hxUPiRA=w529-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8JhLYR7kqQdeC830NziG4A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=275.47556&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "6 AM–10 PM"
+      ],
+      "Monday": [
+        "6 AM–10 PM"
+      ],
+      "Saturday": [
+        "6 AM–10 PM"
+      ],
+      "Sunday": [
+        "6 AM–10 PM"
+      ],
+      "Thursday": [
+        "6 AM–10 PM"
+      ],
+      "Tuesday": [
+        "6 AM–10 PM"
+      ],
+      "Wednesday": [
+        "6 AM–10 PM"
+      ]
+    },
+    "avgRatings": 1,
+    "reviewCount": 1,
+    "reviewsPerRating": {
+      "1": 1,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "popularTimes": {
+      "Friday": {
+        "5": 0,
+        "6": 61,
+        "7": 61,
+        "8": 69,
+        "9": 69,
+        "10": 69,
+        "11": 38,
+        "12": 46,
+        "13": 38,
+        "14": 61,
+        "15": 100,
+        "16": 76,
+        "17": 69,
+        "18": 38,
+        "19": 30,
+        "20": 30,
+        "21": 69,
+        "22": 0
+      },
+      "Monday": {
+        "5": 0,
+        "6": 46,
+        "7": 69,
+        "8": 46,
+        "9": 53,
+        "10": 38,
+        "11": 30,
+        "12": 15,
+        "13": 15,
+        "14": 15,
+        "15": 15,
+        "16": 46,
+        "17": 30,
+        "18": 15,
+        "19": 15,
+        "20": 30,
+        "21": 69,
+        "22": 0
+      },
+      "Saturday": {
+        "5": 0,
+        "6": 30,
+        "7": 23,
+        "8": 38,
+        "9": 61,
+        "10": 69,
+        "11": 92,
+        "12": 69,
+        "13": 53,
+        "14": 15,
+        "15": 7,
+        "16": 15,
+        "17": 38,
+        "18": 53,
+        "19": 69,
+        "20": 100,
+        "21": 92,
+        "22": 0
+      },
+      "Sunday": {
+        "5": 0,
+        "6": 15,
+        "7": 15,
+        "8": 15,
+        "9": 15,
+        "10": 15,
+        "11": 0,
+        "12": 0,
+        "13": 15,
+        "14": 15,
+        "15": 15,
+        "16": 23,
+        "17": 38,
+        "18": 46,
+        "19": 46,
+        "20": 38,
+        "21": 61,
+        "22": 0
+      },
+      "Thursday": {
+        "5": 0,
+        "6": 61,
+        "7": 46,
+        "8": 53,
+        "9": 53,
+        "10": 61,
+        "11": 30,
+        "12": 23,
+        "13": 38,
+        "14": 30,
+        "15": 30,
+        "16": 46,
+        "17": 38,
+        "18": 46,
+        "19": 53,
+        "20": 46,
+        "21": 23,
+        "22": 0
+      },
+      "Tuesday": {
+        "5": 0,
+        "6": 23,
+        "7": 38,
+        "8": 38,
+        "9": 23,
+        "10": 15,
+        "11": 30,
+        "12": 61,
+        "13": 61,
+        "14": 61,
+        "15": 46,
+        "16": 46,
+        "17": 38,
+        "18": 38,
+        "19": 23,
+        "20": 23,
+        "21": 38,
+        "22": 0
+      },
+      "Wednesday": {
+        "5": 0,
+        "6": 46,
+        "7": 30,
+        "8": 15,
+        "9": 15,
+        "10": 23,
+        "11": 46,
+        "12": 53,
+        "13": 61,
+        "14": 46,
+        "15": 61,
+        "16": 53,
+        "17": 61,
+        "18": 46,
+        "19": 30,
+        "20": 30,
+        "21": 30,
+        "22": 0
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "Suchad Bag",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJhwkKx6MvBd6XM5b1_4SHUawF5LfIScxKJgAfpWxkVAx2dCKE=s120-c-rp-mo-br100",
+        "Rating": 1,
+        "Description": "𝕊𝕦𝕔𝕒𝕕 𝔹𝕒𝕘𝕊𝕦𝕔𝕒𝕕 𝔹𝕒𝕘",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": null,
+    "timezone": "Asia/Katmandu",
+    "cid": "16494934199762752768",
+    "location": {
+      "lat": 27.687144,
+      "lng": 85.338042
+    }
+  },
+  {
+    "name": "Paramarsha Phamracy",
+    "contact": "984-1357578",
+    "email": null,
+    "address": "Surya Bikram Marg, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEXiG_qNmZbTpAL8KgEVdt4P4eAlSFeiB4kfI2Vsjmmd-x7f-Qgv89gjnIUp-0YDqq3CUlmNWULJ0hTMVWyj_5GsYeJAZnOOuVCm7Dn4-kibpCC0j5n2SZr13j4JBjNfOrtTQIgMK_hBiXSSZETkLGz5lQf7g9H79K_MeP-2MUJ_hekTZ1c7Df2dr7YixosQnW74nA=w529-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEXiG_qNmZbTpAL8KgEVdt4P4eAlSFeiB4kfI2Vsjmmd-x7f-Qgv89gjnIUp-0YDqq3CUlmNWULJ0hTMVWyj_5GsYeJAZnOOuVCm7Dn4-kibpCC0j5n2SZr13j4JBjNfOrtTQIgMK_hBiXSSZETkLGz5lQf7g9H79K_MeP-2MUJ_hekTZ1c7Df2dr7YixosQnW74nA=w529-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TiPuTl0myRhPGV5xutwy1g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=183.6871&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGvBA61_nNSMO85V3bnVQfWlT7keaXPnZSR8ekNz7xu3tHCA4S5tTUgZik_Nth__zG7rJTcgSdcMXxe7UP34UuxN9wt2CM77npVS9-mBiIQ3J6SGaQ04NhbHO6RezuS3KXR-n7n0rLITgQFiTMIcIst3vAxNaK5rdSrbLOumGGjp2XhG3CiULa5octMqfCBCbu_a3U=w426-h240-k-no",
+    "tagLine": null,
+    "website": "https://pharmalife.com.np/",
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "Surya Bikram Marg",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEXiG_qNmZbTpAL8KgEVdt4P4eAlSFeiB4kfI2Vsjmmd-x7f-Qgv89gjnIUp-0YDqq3CUlmNWULJ0hTMVWyj_5GsYeJAZnOOuVCm7Dn4-kibpCC0j5n2SZr13j4JBjNfOrtTQIgMK_hBiXSSZETkLGz5lQf7g9H79K_MeP-2MUJ_hekTZ1c7Df2dr7YixosQnW74nA=w529-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=TiPuTl0myRhPGV5xutwy1g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=183.6871&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "7 AM–7 PM"
+      ],
+      "Monday": [
+        "7 AM–7 PM"
+      ],
+      "Saturday": [
+        "7 AM–7 PM"
+      ],
+      "Sunday": [
+        "7 AM–7 PM"
+      ],
+      "Thursday": [
+        "7 AM–7 PM"
+      ],
+      "Tuesday": [
+        "7 AM–7 PM"
+      ],
+      "Wednesday": [
+        "7 AM–7 PM"
+      ]
+    },
+    "avgRatings": 5,
+    "reviewCount": 1,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1
+    },
+    "popularTimes": {},
+    "userReviews": [
+      {
+        "Name": "Kusum Kc",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocIcXMC5OZFEoD0HawyCZMj_3Xq3Fa3m7n1FT_3TQ1wSgZV1aw=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": "M8VR+37 Kathmandu",
+    "timezone": "Asia/Katmandu",
+    "cid": "10431512882195660114",
+    "location": {
+      "lat": 27.692703,
+      "lng": 85.340656
+    }
+  },
+  {
+    "name": "cancer medicine supplier",
+    "contact": "980-4867274",
+    "email": null,
+    "address": "Kathmandu 44600",
+    "avatarUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mxdPE1WXj8P1NiXE5Mk0nw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=187.52713&pitch=0&thumbfov=100",
+    "coverImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mxdPE1WXj8P1NiXE5Mk0nw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=187.52713&pitch=0&thumbfov=100",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mxdPE1WXj8P1NiXE5Mk0nw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=187.52713&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mxdPE1WXj8P1NiXE5Mk0nw&cb_client=search.gws-prod.gps&w=408&h=240&yaw=187.52713&pitch=0&thumbfov=100",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": null,
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mxdPE1WXj8P1NiXE5Mk0nw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=187.52713&pitch=0&thumbfov=100",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=mxdPE1WXj8P1NiXE5Mk0nw&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=187.52713&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ]
+    },
+    "avgRatings": 2,
+    "reviewCount": 1,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 1,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "popularTimes": {
+      "Friday": {
+        "0": 46,
+        "1": 38,
+        "2": 23,
+        "3": 23,
+        "4": 30,
+        "5": 23,
+        "6": 30,
+        "7": 69,
+        "8": 53,
+        "9": 53,
+        "10": 38,
+        "11": 30,
+        "12": 53,
+        "13": 53,
+        "14": 76,
+        "15": 61,
+        "16": 61,
+        "17": 38,
+        "18": 15,
+        "19": 7,
+        "20": 7,
+        "21": 0,
+        "22": 15,
+        "23": 30
+      },
+      "Monday": {
+        "0": 38,
+        "1": 61,
+        "2": 69,
+        "3": 69,
+        "4": 53,
+        "5": 46,
+        "6": 53,
+        "7": 53,
+        "8": 53,
+        "9": 46,
+        "10": 53,
+        "11": 53,
+        "12": 61,
+        "13": 69,
+        "14": 53,
+        "15": 38,
+        "16": 30,
+        "17": 46,
+        "18": 46,
+        "19": 38,
+        "20": 53,
+        "21": 46,
+        "22": 46,
+        "23": 46
+      },
+      "Saturday": {
+        "0": 30,
+        "1": 69,
+        "2": 100,
+        "3": 92,
+        "4": 61,
+        "5": 38,
+        "6": 7,
+        "7": 15,
+        "8": 23,
+        "9": 30,
+        "10": 61,
+        "11": 61,
+        "12": 61,
+        "13": 53,
+        "14": 30,
+        "15": 30,
+        "16": 23,
+        "17": 23,
+        "18": 53,
+        "19": 69,
+        "20": 53,
+        "21": 30,
+        "22": 23,
+        "23": 15
+      },
+      "Sunday": {
+        "0": 38,
+        "1": 61,
+        "2": 92,
+        "3": 92,
+        "4": 46,
+        "5": 15,
+        "6": 0,
+        "7": 15,
+        "8": 38,
+        "9": 53,
+        "10": 46,
+        "11": 46,
+        "12": 46,
+        "13": 92,
+        "14": 61,
+        "15": 30,
+        "16": 23,
+        "17": 46,
+        "18": 69,
+        "19": 30,
+        "20": 15,
+        "21": 7,
+        "22": 23,
+        "23": 30
+      },
+      "Thursday": {
+        "0": 30,
+        "1": 38,
+        "2": 53,
+        "3": 46,
+        "4": 38,
+        "5": 30,
+        "6": 61,
+        "7": 46,
+        "8": 46,
+        "9": 38,
+        "10": 53,
+        "11": 53,
+        "12": 30,
+        "13": 38,
+        "14": 38,
+        "15": 46,
+        "16": 30,
+        "17": 53,
+        "18": 61,
+        "19": 69,
+        "20": 46,
+        "21": 38,
+        "22": 15,
+        "23": 23
+      },
+      "Tuesday": {
+        "0": 15,
+        "1": 0,
+        "2": 7,
+        "3": 15,
+        "4": 30,
+        "5": 23,
+        "6": 30,
+        "7": 53,
+        "8": 69,
+        "9": 53,
+        "10": 46,
+        "11": 46,
+        "12": 61,
+        "13": 46,
+        "14": 30,
+        "15": 38,
+        "16": 46,
+        "17": 69,
+        "18": 53,
+        "19": 61,
+        "20": 38,
+        "21": 53,
+        "22": 53,
+        "23": 46
+      },
+      "Wednesday": {
+        "0": 30,
+        "1": 30,
+        "2": 30,
+        "3": 23,
+        "4": 30,
+        "5": 38,
+        "6": 38,
+        "7": 38,
+        "8": 30,
+        "9": 23,
+        "10": 7,
+        "11": 7,
+        "12": 30,
+        "13": 76,
+        "14": 92,
+        "15": 100,
+        "16": 100,
+        "17": 100,
+        "18": 84,
+        "19": 38,
+        "20": 38,
+        "21": 38,
+        "22": 46,
+        "23": 23
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "M.r Shyam sijali",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWrI-JOQhkMeDuQ0oxO6tJOtdNsqZTMhbB3L5blSXgQGoH60OUD=s120-c-rp-mo-br100",
+        "Rating": 2,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": "M8QQ+33 Kathmandu",
+    "timezone": "Asia/Katmandu",
+    "cid": "12474236206425562016",
+    "location": {
+      "lat": 27.687749,
+      "lng": 85.337747
+    }
+  },
+  {
+    "name": "Sohan homeopathic forme",
+    "contact": "01-4104079",
+    "email": null,
+    "address": "M8RQ+89G Sohan homeopathic forme, बिभुति जनक मार्ग, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHUyaEZNnmtg16txjSzFVW4V8gQYzEtnB24zw4qvOKF1CIy89CDaOnBXJQrAKUCHZOWFOc3O7TUPddQ8jaKzSD2QQKg8EUI-KmnXQTt3whNnK1JTWAWUrWenzGoebu5k6mR-scrIF5mvDPcq42EnxAnDf0lWeEMG5xNEOLW4g02FKzSHojWSlzdDqs5D5KYctf7VWw=w529-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHUyaEZNnmtg16txjSzFVW4V8gQYzEtnB24zw4qvOKF1CIy89CDaOnBXJQrAKUCHZOWFOc3O7TUPddQ8jaKzSD2QQKg8EUI-KmnXQTt3whNnK1JTWAWUrWenzGoebu5k6mR-scrIF5mvDPcq42EnxAnDf0lWeEMG5xNEOLW4g02FKzSHojWSlzdDqs5D5KYctf7VWw=w529-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xUQpbRaES5z-KfcedkZUBA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=3.2384555&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEO-CaecdB_uUg_yo70eU38u82ZTQDvX6ycXF6HKxmKAvyMoKNCGnU_ksYPKiyeKfVCbqk-qD2Ds2JNVS5jxzAJSS7n0Q24DvYskK4zDSMw8NJGAebeec0OsQjho5iNGlh82BaJbqJ_owW2i3VoIg7yPFoWtwrvl-K6IBvx3zRnqaega0IurtumHrVG-48_MtMkwl4=w426-h240-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "M8RQ+89G, बिभुति जनक मार्ग",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHUyaEZNnmtg16txjSzFVW4V8gQYzEtnB24zw4qvOKF1CIy89CDaOnBXJQrAKUCHZOWFOc3O7TUPddQ8jaKzSD2QQKg8EUI-KmnXQTt3whNnK1JTWAWUrWenzGoebu5k6mR-scrIF5mvDPcq42EnxAnDf0lWeEMG5xNEOLW4g02FKzSHojWSlzdDqs5D5KYctf7VWw=w529-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=xUQpbRaES5z-KfcedkZUBA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=3.2384555&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "8 AM–7 PM"
+      ],
+      "Monday": [
+        "8 AM–7 PM"
+      ],
+      "Saturday": [
+        "Closed"
+      ],
+      "Sunday": [
+        "8 AM–7 PM"
+      ],
+      "Thursday": [
+        "8 AM–7 PM"
+      ],
+      "Tuesday": [
+        "8 AM–7 PM"
+      ],
+      "Wednesday": [
+        "8 AM–7 PM"
+      ]
+    },
+    "avgRatings": 0,
+    "reviewCount": 0,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "popularTimes": {},
+    "userReviews": [],
+    "priceRange": null,
+    "plusCode": null,
+    "timezone": "Asia/Katmandu",
+    "cid": "18151774672198739108",
+    "location": {
+      "lat": 27.690804,
+      "lng": 85.338465
+    }
+  },
+  {
+    "name": "Omtara Pharmacy",
+    "contact": "01-4566204",
+    "email": null,
+    "address": "Rishi Bhakta Marg, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyTJCSnYMPMoAZR_L62F_fNe5H2QMnDj_VHJZRdXOL5rjC7h7vT6unxlYeR2z59kEqY_N7ke-cN5icwzWdht3sOrx3qOiXjnLs-JTElXsPLStPAcB9ELCNzR2AjKixwizb_tX12=w399-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyTJCSnYMPMoAZR_L62F_fNe5H2QMnDj_VHJZRdXOL5rjC7h7vT6unxlYeR2z59kEqY_N7ke-cN5icwzWdht3sOrx3qOiXjnLs-JTElXsPLStPAcB9ELCNzR2AjKixwizb_tX12=w399-h298-k-no",
+    "buildingImageUrl": "https://lh3.googleusercontent.com/p/AF1QipO8ox-a-vpZ_LT2q-pBFIaS5-YeacsZDE4K8H9Q=w645-h298-k-no",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyTJCSnYMPMoAZR_L62F_fNe5H2QMnDj_VHJZRdXOL5rjC7h7vT6unxlYeR2z59kEqY_N7ke-cN5icwzWdht3sOrx3qOiXjnLs-JTElXsPLStPAcB9ELCNzR2AjKixwizb_tX12=w408-h304-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": true,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "Rishi Bhakta Marg",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyTJCSnYMPMoAZR_L62F_fNe5H2QMnDj_VHJZRdXOL5rjC7h7vT6unxlYeR2z59kEqY_N7ke-cN5icwzWdht3sOrx3qOiXjnLs-JTElXsPLStPAcB9ELCNzR2AjKixwizb_tX12=w399-h298-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipO8ox-a-vpZ_LT2q-pBFIaS5-YeacsZDE4K8H9Q=w645-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=lHI1n1H4LKbLcjs_DlcnOg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=243.24165&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "6:30 AM–10 PM"
+      ],
+      "Monday": [
+        "6:30 AM–10 PM"
+      ],
+      "Saturday": [
+        "6:30 AM–10 PM"
+      ],
+      "Sunday": [
+        "6:30 AM–10 PM"
+      ],
+      "Thursday": [
+        "6:30 AM–10 PM"
+      ],
+      "Tuesday": [
+        "6:30 AM–10 PM"
+      ],
+      "Wednesday": [
+        "6:30 AM–10 PM"
+      ]
+    },
+    "avgRatings": 4.3,
+    "reviewCount": 14,
+    "reviewsPerRating": {
+      "1": 1,
+      "2": 1,
+      "3": 1,
+      "4": 1,
+      "5": 10
+    },
+    "popularTimes": {
+      "Friday": {
+        "5": 0,
+        "6": 23,
+        "7": 25,
+        "8": 29,
+        "9": 31,
+        "10": 38,
+        "11": 38,
+        "12": 48,
+        "13": 44,
+        "14": 59,
+        "15": 57,
+        "16": 74,
+        "17": 80,
+        "18": 72,
+        "19": 59,
+        "20": 53,
+        "21": 48,
+        "22": 0
+      },
+      "Monday": {
+        "5": 0,
+        "6": 42,
+        "7": 46,
+        "8": 57,
+        "9": 63,
+        "10": 70,
+        "11": 53,
+        "12": 42,
+        "13": 25,
+        "14": 19,
+        "15": 25,
+        "16": 42,
+        "17": 55,
+        "18": 65,
+        "19": 65,
+        "20": 61,
+        "21": 59,
+        "22": 0
+      },
+      "Saturday": {
+        "5": 0,
+        "6": 51,
+        "7": 65,
+        "8": 55,
+        "9": 55,
+        "10": 46,
+        "11": 63,
+        "12": 76,
+        "13": 74,
+        "14": 65,
+        "15": 59,
+        "16": 65,
+        "17": 78,
+        "18": 76,
+        "19": 91,
+        "20": 76,
+        "21": 72,
+        "22": 0
+      },
+      "Sunday": {
+        "5": 0,
+        "6": 40,
+        "7": 40,
+        "8": 38,
+        "9": 27,
+        "10": 34,
+        "11": 36,
+        "12": 51,
+        "13": 51,
+        "14": 46,
+        "15": 38,
+        "16": 46,
+        "17": 63,
+        "18": 93,
+        "19": 91,
+        "20": 76,
+        "21": 53,
+        "22": 0
+      },
+      "Thursday": {
+        "5": 0,
+        "6": 76,
+        "7": 70,
+        "8": 72,
+        "9": 51,
+        "10": 38,
+        "11": 44,
+        "12": 51,
+        "13": 53,
+        "14": 57,
+        "15": 72,
+        "16": 70,
+        "17": 68,
+        "18": 68,
+        "19": 65,
+        "20": 74,
+        "21": 59,
+        "22": 0
+      },
+      "Tuesday": {
+        "5": 0,
+        "6": 70,
+        "7": 74,
+        "8": 100,
+        "9": 93,
+        "10": 82,
+        "11": 55,
+        "12": 51,
+        "13": 42,
+        "14": 51,
+        "15": 55,
+        "16": 57,
+        "17": 53,
+        "18": 42,
+        "19": 46,
+        "20": 53,
+        "21": 55,
+        "22": 0
+      },
+      "Wednesday": {
+        "5": 0,
+        "6": 25,
+        "7": 29,
+        "8": 38,
+        "9": 42,
+        "10": 46,
+        "11": 44,
+        "12": 42,
+        "13": 48,
+        "14": 61,
+        "15": 82,
+        "16": 78,
+        "17": 76,
+        "18": 59,
+        "19": 55,
+        "20": 53,
+        "21": 48,
+        "22": 0
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "eunique boy",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocIGu5793tPjmZBuEgz5-897HhKXN7kruAs9MD6YfGXtvBZqSg=s120-c-rp-mo-ba3-br100",
+        "Rating": 5,
+        "Description": "One of the pharmacy which offer variety of medicine in calhabehil area.",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Sanjay Kc",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjVr9jsLGGq-Y7VJCG4duBnlCoZlnTfPdCA12p_KDartWS8jJgMN=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "They gave discount on my medicine..best pharmacy ever.. love their home delivery services.",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Nabaraj Paneru",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjU8cUF8bDZOJWuBrgC4WACHjsHoOG3ROOSGypXdT4YiWnFmff4=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "Best pharmacy ever.. every registered  drugs/medicine are available here",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Binod Nepal",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjX80NjB7eYlgtCspvAncEUcicvsTKFrlNOtH9W7_SOJgtKb13F2=s120-c-rp-mo-ba6-br100",
+        "Rating": 3,
+        "Description": "Good and can get almost all medicine",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Saurav Khanal",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjUSlsHzbvATVlR7Ul2vh3U79sAdhgsNJGwYJecP2ETq6tT6AnvH=s120-c-rp-mo-ba2-br100",
+        "Rating": 5,
+        "Description": "Nice",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Stephen Aryal",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWQ23TcgWi7HmyqUs0JUgRjsof0HR8w8l9IXEUaW92ll8t4ktJh9w=s120-c-rp-mo-ba3-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Sanish Shrestha",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjXBJgi2S91MBusZOymKuC67363dp3MndDD0fG3946HetziI-gMU=s120-c-rp-mo-ba3-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Suman Sharma",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjUIKBBHxw7lHMapzKXXFZXBPrvFNsL1J5Bcjbr9wmXRjfa_PKus=s120-c-rp-mo-ba4-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": "P8CW+H3 Kathmandu",
+    "timezone": "Asia/Katmandu",
+    "cid": "15656008229065152796",
+    "location": {
+      "lat": 27.721464,
+      "lng": 85.345154
+    }
+  },
+  {
+    "name": "Orchid pharmacy",
+    "contact": "984-1030134",
+    "email": null,
+    "address": "Damodar Marg, Lalitpur 44600",
+    "avatarUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gLvqsatC_HC6KCLoUnc9RA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=183.14563&pitch=0&thumbfov=100",
+    "coverImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gLvqsatC_HC6KCLoUnc9RA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=183.14563&pitch=0&thumbfov=100",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gLvqsatC_HC6KCLoUnc9RA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=183.14563&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gLvqsatC_HC6KCLoUnc9RA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=183.14563&pitch=0&thumbfov=100",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "Damodar Marg",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gLvqsatC_HC6KCLoUnc9RA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=183.14563&pitch=0&thumbfov=100",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gLvqsatC_HC6KCLoUnc9RA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=183.14563&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "8 AM–7:30 PM"
+      ],
+      "Monday": [
+        "8 AM–7:30 PM"
+      ],
+      "Saturday": [
+        "9 AM–7:30 PM"
+      ],
+      "Sunday": [
+        "8 AM–6:30 PM"
+      ],
+      "Thursday": [
+        "8 AM–7:30 PM"
+      ],
+      "Tuesday": [
+        "8 AM–7:30 PM"
+      ],
+      "Wednesday": [
+        "8 AM–7:30 PM"
+      ]
+    },
+    "avgRatings": 0,
+    "reviewCount": 0,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "popularTimes": {
+      "Friday": {
+        "6": 0,
+        "7": 0,
+        "8": 68,
+        "9": 75,
+        "10": 62,
+        "11": 31,
+        "12": 25,
+        "13": 37,
+        "14": 56,
+        "15": 75,
+        "16": 75,
+        "17": 81,
+        "18": 68,
+        "19": 75,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Monday": {
+        "6": 0,
+        "7": 0,
+        "8": 18,
+        "9": 31,
+        "10": 31,
+        "11": 31,
+        "12": 25,
+        "13": 25,
+        "14": 25,
+        "15": 37,
+        "16": 37,
+        "17": 25,
+        "18": 18,
+        "19": 25,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Saturday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 50,
+        "10": 43,
+        "11": 18,
+        "12": 18,
+        "13": 18,
+        "14": 12,
+        "15": 25,
+        "16": 50,
+        "17": 68,
+        "18": 100,
+        "19": 75,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Sunday": {
+        "6": 0,
+        "7": 0,
+        "8": 62,
+        "9": 75,
+        "10": 62,
+        "11": 68,
+        "12": 25,
+        "13": 18,
+        "14": 18,
+        "15": 18,
+        "16": 12,
+        "17": 25,
+        "18": 18,
+        "19": 0,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Thursday": {
+        "6": 0,
+        "7": 0,
+        "8": 31,
+        "9": 25,
+        "10": 25,
+        "11": 25,
+        "12": 37,
+        "13": 43,
+        "14": 37,
+        "15": 18,
+        "16": 18,
+        "17": 12,
+        "18": 31,
+        "19": 37,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Tuesday": {
+        "6": 0,
+        "7": 0,
+        "8": 62,
+        "9": 50,
+        "10": 50,
+        "11": 43,
+        "12": 25,
+        "13": 25,
+        "14": 31,
+        "15": 62,
+        "16": 75,
+        "17": 93,
+        "18": 56,
+        "19": 50,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Wednesday": {
+        "6": 0,
+        "7": 0,
+        "8": 0,
+        "9": 6,
+        "10": 6,
+        "11": 25,
+        "12": 25,
+        "13": 43,
+        "14": 56,
+        "15": 68,
+        "16": 56,
+        "17": 68,
+        "18": 50,
+        "19": 43,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      }
+    },
+    "userReviews": [],
+    "priceRange": null,
+    "plusCode": "M887+PC Lalitpur",
+    "timezone": "Asia/Katmandu",
+    "cid": "6400295645358014087",
+    "location": {
+      "lat": 27.666837,
+      "lng": 85.313587
+    }
+  },
+  {
+    "name": "V.S Pharma",
+    "contact": "984-3264877",
+    "email": null,
+    "address": "Ekantakuna Rd, Lalitpur 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzhqCLTvJ7u79nC1lM9dpoYYPpZhz6V-yBDz6AGDxzkNzIg9X9VLGvD6RgwgtpIpbZ4gWANxe4Juvhd9E8k--AXlCrjkOMGCP3fOV6NXNm8wji0KvPdpQUcqGuV6nAaYWhMug=w397-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzhqCLTvJ7u79nC1lM9dpoYYPpZhz6V-yBDz6AGDxzkNzIg9X9VLGvD6RgwgtpIpbZ4gWANxe4Juvhd9E8k--AXlCrjkOMGCP3fOV6NXNm8wji0KvPdpQUcqGuV6nAaYWhMug=w397-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tu7Zjrpk7OsEkh31L903uQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=337.32297&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzhqCLTvJ7u79nC1lM9dpoYYPpZhz6V-yBDz6AGDxzkNzIg9X9VLGvD6RgwgtpIpbZ4gWANxe4Juvhd9E8k--AXlCrjkOMGCP3fOV6NXNm8wji0KvPdpQUcqGuV6nAaYWhMug=w408-h306-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "Ekantakuna Rd",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSzhqCLTvJ7u79nC1lM9dpoYYPpZhz6V-yBDz6AGDxzkNzIg9X9VLGvD6RgwgtpIpbZ4gWANxe4Juvhd9E8k--AXlCrjkOMGCP3fOV6NXNm8wji0KvPdpQUcqGuV6nAaYWhMug=w397-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=Tu7Zjrpk7OsEkh31L903uQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=337.32297&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "8 AM–8 PM"
+      ],
+      "Monday": [
+        "8 AM–8 PM"
+      ],
+      "Saturday": [
+        "8 AM–8 PM"
+      ],
+      "Sunday": [
+        "8 AM–8 PM"
+      ],
+      "Thursday": [
+        "8 AM–8 PM"
+      ],
+      "Tuesday": [
+        "8 AM–8 PM"
+      ],
+      "Wednesday": [
+        "8 AM–8 PM"
+      ]
+    },
+    "avgRatings": 5,
+    "reviewCount": 2,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2
+    },
+    "popularTimes": {
+      "Friday": {
+        "6": 0,
+        "7": 0,
+        "8": 53,
+        "9": 76,
+        "10": 84,
+        "11": 69,
+        "12": 69,
+        "13": 53,
+        "14": 38,
+        "15": 46,
+        "16": 23,
+        "17": 15,
+        "18": 15,
+        "19": 23,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Monday": {
+        "6": 0,
+        "7": 0,
+        "8": 15,
+        "9": 30,
+        "10": 30,
+        "11": 30,
+        "12": 69,
+        "13": 100,
+        "14": 100,
+        "15": 53,
+        "16": 23,
+        "17": 23,
+        "18": 46,
+        "19": 53,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Saturday": {
+        "6": 0,
+        "7": 0,
+        "8": 53,
+        "9": 53,
+        "10": 53,
+        "11": 38,
+        "12": 46,
+        "13": 30,
+        "14": 46,
+        "15": 61,
+        "16": 46,
+        "17": 61,
+        "18": 38,
+        "19": 69,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Sunday": {
+        "6": 0,
+        "7": 0,
+        "8": 53,
+        "9": 23,
+        "10": 38,
+        "11": 23,
+        "12": 38,
+        "13": 23,
+        "14": 15,
+        "15": 0,
+        "16": 7,
+        "17": 0,
+        "18": 7,
+        "19": 0,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Thursday": {
+        "6": 0,
+        "7": 0,
+        "8": 46,
+        "9": 38,
+        "10": 15,
+        "11": 7,
+        "12": 23,
+        "13": 30,
+        "14": 23,
+        "15": 23,
+        "16": 38,
+        "17": 76,
+        "18": 76,
+        "19": 69,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Tuesday": {
+        "6": 0,
+        "7": 0,
+        "8": 53,
+        "9": 46,
+        "10": 61,
+        "11": 53,
+        "12": 30,
+        "13": 7,
+        "14": 0,
+        "15": 7,
+        "16": 15,
+        "17": 30,
+        "18": 38,
+        "19": 61,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Wednesday": {
+        "6": 0,
+        "7": 0,
+        "8": 69,
+        "9": 76,
+        "10": 76,
+        "11": 53,
+        "12": 69,
+        "13": 46,
+        "14": 30,
+        "15": 30,
+        "16": 53,
+        "17": 46,
+        "18": 38,
+        "19": 46,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "Urusha Karmacharya",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJCV8dsv0wM-bscynbYReUMi9scrThCq536aD6wdtUqU_h-5aE=s120-c-rp-mo-ba5-br100",
+        "Rating": 5,
+        "Description": "One of the oldest local pharmacy in this area, V.S pharma has a very easy to talk to and nicest pharmacist.\nIt is opened 7 am -9pm seven days a week, and almost all days in a year.",
+        "Images": [
+          "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgICs6MqozAE&fid=0x0:0xc18f75fbecbda9bc"
+        ],
+        "When": "2020-1-20"
+      },
+      {
+        "Name": "Binod Shrestha",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocIOEOiTKi0fqINoHtrQ5mya98tD4aAvCenDXpASjOV3BkjUwA=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": "M896+W5 Lalitpur",
+    "timezone": "Asia/Katmandu",
+    "cid": "13947496295858809276",
+    "location": {
+      "lat": 27.669842,
+      "lng": 85.310496
+    }
+  },
+  {
+    "name": "Subhadev Pharmacy",
+    "contact": "984-1304750",
+    "email": null,
+    "address": "M884+X9X Subhadev Pharmacy, Bagdol Rd, Lalitpur 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyxHHkFK0AINoL66H4bvNzBCYc_neRT1d1dMcAbQm-794VAL-ygd2RO8louOKoY5-gcQ0Z76WO1F7fy-5mCZ9zodQUMZtOlkWycMA9zI4Urbz3GSvYRGzKSqDcSgW6LKj4biK1O6ZI2f6P6=w224-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyxHHkFK0AINoL66H4bvNzBCYc_neRT1d1dMcAbQm-794VAL-ygd2RO8louOKoY5-gcQ0Z76WO1F7fy-5mCZ9zodQUMZtOlkWycMA9zI4Urbz3GSvYRGzKSqDcSgW6LKj4biK1O6ZI2f6P6=w224-h298-k-no",
+    "buildingImageUrl": null,
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyxHHkFK0AINoL66H4bvNzBCYc_neRT1d1dMcAbQm-794VAL-ygd2RO8louOKoY5-gcQ0Z76WO1F7fy-5mCZ9zodQUMZtOlkWycMA9zI4Urbz3GSvYRGzKSqDcSgW6LKj4biK1O6ZI2f6P6=w408-h544-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "M884+X9X, Bagdol Rd",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyxHHkFK0AINoL66H4bvNzBCYc_neRT1d1dMcAbQm-794VAL-ygd2RO8louOKoY5-gcQ0Z76WO1F7fy-5mCZ9zodQUMZtOlkWycMA9zI4Urbz3GSvYRGzKSqDcSgW6LKj4biK1O6ZI2f6P6=w224-h298-k-no"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "7 AM–10:30 PM"
+      ],
+      "Monday": [
+        "7 AM–10:30 PM"
+      ],
+      "Saturday": [
+        "7 AM–10:30 PM"
+      ],
+      "Sunday": [
+        "7 AM–10:30 PM"
+      ],
+      "Thursday": [
+        "7 AM–10:30 PM"
+      ],
+      "Tuesday": [
+        "7 AM–10:30 PM"
+      ],
+      "Wednesday": [
+        "7 AM–10:30 PM"
+      ]
+    },
+    "avgRatings": 5,
+    "reviewCount": 2,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 2
+    },
+    "popularTimes": {},
+    "userReviews": [
+      {
+        "Name": "Kakulti Mahato",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocIjpAj6nJPetfPTtMdV9gzmLUh1k62NAyM6_Dh_mis0tLlm-Q=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Subham Mahato",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjUhXyG1NTRdg0wqvwZO0tU2p0Q3DnvEEHE6_SiRvRWeIGqYpjfa=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": null,
+    "timezone": "Asia/Katmandu",
+    "cid": "8430507068646276315",
+    "location": {
+      "lat": 27.667496,
+      "lng": 85.305986
+    }
+  },
+  {
+    "name": "Fiza Pharmacy",
+    "contact": "984-1217317",
+    "email": null,
+    "address": "M895+VVV Fiza Pharmacy, Lalitpur 44700",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwtYoxRbBeyQx-nOdWkDd2SggtzRy_morFikd5wl0D5Ac81PEG81hthIGsftSpHj2fWhSW6bvuur6VACxFzg8TRwwojQ68o0rOIJfnfAPQ2GOBByLzLL8mTEq6S7zw5drPBVg0T2A=w397-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwtYoxRbBeyQx-nOdWkDd2SggtzRy_morFikd5wl0D5Ac81PEG81hthIGsftSpHj2fWhSW6bvuur6VACxFzg8TRwwojQ68o0rOIJfnfAPQ2GOBByLzLL8mTEq6S7zw5drPBVg0T2A=w397-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1Mu8EQXUObwNkl1BNm8zrA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=32.608612&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwtYoxRbBeyQx-nOdWkDd2SggtzRy_morFikd5wl0D5Ac81PEG81hthIGsftSpHj2fWhSW6bvuur6VACxFzg8TRwwojQ68o0rOIJfnfAPQ2GOBByLzLL8mTEq6S7zw5drPBVg0T2A=w408-h306-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "M895+VVV",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwtYoxRbBeyQx-nOdWkDd2SggtzRy_morFikd5wl0D5Ac81PEG81hthIGsftSpHj2fWhSW6bvuur6VACxFzg8TRwwojQ68o0rOIJfnfAPQ2GOBByLzLL8mTEq6S7zw5drPBVg0T2A=w397-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=1Mu8EQXUObwNkl1BNm8zrA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=32.608612&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ]
+    },
+    "avgRatings": 5,
+    "reviewCount": 1,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 1
+    },
+    "popularTimes": {
+      "Friday": {
+        "0": 31,
+        "1": 56,
+        "2": 43,
+        "3": 37,
+        "4": 31,
+        "5": 37,
+        "6": 31,
+        "7": 31,
+        "8": 31,
+        "9": 43,
+        "10": 31,
+        "11": 37,
+        "12": 25,
+        "13": 31,
+        "14": 31,
+        "15": 43,
+        "16": 25,
+        "17": 12,
+        "18": 18,
+        "19": 37,
+        "20": 50,
+        "21": 25,
+        "22": 18,
+        "23": 25
+      },
+      "Monday": {
+        "0": 37,
+        "1": 18,
+        "2": 18,
+        "3": 25,
+        "4": 37,
+        "5": 50,
+        "6": 37,
+        "7": 31,
+        "8": 37,
+        "9": 25,
+        "10": 18,
+        "11": 25,
+        "12": 31,
+        "13": 31,
+        "14": 37,
+        "15": 25,
+        "16": 37,
+        "17": 37,
+        "18": 12,
+        "19": 6,
+        "20": 12,
+        "21": 18,
+        "22": 31,
+        "23": 31
+      },
+      "Saturday": {
+        "0": 56,
+        "1": 50,
+        "2": 62,
+        "3": 50,
+        "4": 62,
+        "5": 56,
+        "6": 43,
+        "7": 43,
+        "8": 18,
+        "9": 18,
+        "10": 37,
+        "11": 68,
+        "12": 62,
+        "13": 56,
+        "14": 43,
+        "15": 25,
+        "16": 6,
+        "17": 6,
+        "18": 18,
+        "19": 25,
+        "20": 25,
+        "21": 25,
+        "22": 25,
+        "23": 43
+      },
+      "Sunday": {
+        "0": 31,
+        "1": 50,
+        "2": 68,
+        "3": 68,
+        "4": 75,
+        "5": 37,
+        "6": 31,
+        "7": 25,
+        "8": 25,
+        "9": 25,
+        "10": 18,
+        "11": 31,
+        "12": 37,
+        "13": 56,
+        "14": 81,
+        "15": 100,
+        "16": 62,
+        "17": 43,
+        "18": 43,
+        "19": 56,
+        "20": 56,
+        "21": 25,
+        "22": 6,
+        "23": 12
+      },
+      "Thursday": {
+        "0": 12,
+        "1": 6,
+        "2": 31,
+        "3": 37,
+        "4": 31,
+        "5": 25,
+        "6": 31,
+        "7": 37,
+        "8": 25,
+        "9": 25,
+        "10": 31,
+        "11": 43,
+        "12": 31,
+        "13": 18,
+        "14": 18,
+        "15": 18,
+        "16": 37,
+        "17": 31,
+        "18": 43,
+        "19": 31,
+        "20": 25,
+        "21": 6,
+        "22": 6,
+        "23": 18
+      },
+      "Tuesday": {
+        "0": 68,
+        "1": 56,
+        "2": 43,
+        "3": 18,
+        "4": 18,
+        "5": 31,
+        "6": 43,
+        "7": 56,
+        "8": 37,
+        "9": 25,
+        "10": 6,
+        "11": 12,
+        "12": 18,
+        "13": 43,
+        "14": 25,
+        "15": 6,
+        "16": 6,
+        "17": 18,
+        "18": 25,
+        "19": 43,
+        "20": 43,
+        "21": 37,
+        "22": 50,
+        "23": 56
+      },
+      "Wednesday": {
+        "0": 25,
+        "1": 25,
+        "2": 31,
+        "3": 31,
+        "4": 31,
+        "5": 25,
+        "6": 18,
+        "7": 31,
+        "8": 31,
+        "9": 43,
+        "10": 18,
+        "11": 12,
+        "12": 18,
+        "13": 43,
+        "14": 50,
+        "15": 56,
+        "16": 31,
+        "17": 18,
+        "18": 25,
+        "19": 18,
+        "20": 12,
+        "21": 12,
+        "22": 18,
+        "23": 12
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "Shruti",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjX-lSbTze9crKK1KhKHbgEfAJAgl0dNrfLDzdzPyPpXF3g2Zfyv=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": null,
+    "timezone": "Asia/Katmandu",
+    "cid": "7095924231477209114",
+    "location": {
+      "lat": 27.669744,
+      "lng": 85.309657
+    }
+  },
+  {
+    "name": "Trucare Pharmacy & Beauty Store (Jawalakhel Branch)",
+    "contact": "980-1462802",
+    "email": null,
+    "address": "Yala Sadak, Kathmandu 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/p/AF1QipMPicLMCmA8NN61P0PKkozmKq36r3E6uZxBMh0W=w455-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/p/AF1QipMPicLMCmA8NN61P0PKkozmKq36r3E6uZxBMh0W=w455-h298-k-no",
+    "buildingImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy-hHpyJcQrj5xffgT8IPk0KfMXh2Q9TEckItTK2TvJx9KnnLXTqsnSbPUMHTPM5wwtiZ6kRGHrETvMzF1SJeg_Te-R7Q9fTaHWbMczDw4Axad1QrASBsa_x1JKqe_tjnEW2Y2dlr0xqVls=w224-h298-k-no",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/p/AF1QipMPicLMCmA8NN61P0PKkozmKq36r3E6uZxBMh0W=w408-h267-k-no",
+    "tagLine": null,
+    "website": "https://trucare.com.np/",
+    "description": null,
+    "isPickup": false,
+    "isDelivery": true,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "Yala Sadak",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/p/AF1QipMPicLMCmA8NN61P0PKkozmKq36r3E6uZxBMh0W=w455-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSy-hHpyJcQrj5xffgT8IPk0KfMXh2Q9TEckItTK2TvJx9KnnLXTqsnSbPUMHTPM5wwtiZ6kRGHrETvMzF1SJeg_Te-R7Q9fTaHWbMczDw4Axad1QrASBsa_x1JKqe_tjnEW2Y2dlr0xqVls=w224-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSyhHUlpVG1sVlPk7xN9NEZWaBK44JthE0NDUi3pVknogRExC6IcG6XOrA46Jpt_yA5p0ngAwzX69lIbnfBu9qOireWIDOPTTckGZfj2Cq5d-K6HnWoZn1flcv2dHz4lopkxO6aoTA=w224-h398-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipOrZa1F_ABf1vi1JdyWj1dotAK_iLNu4aaRY2BZ=w224-h335-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EDyl8zCxcziJyLIqlCA4qQ&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=58.586597&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "7 AM–9 PM"
+      ],
+      "Monday": [
+        "7 AM–9 PM"
+      ],
+      "Saturday": [
+        "7 AM–9 PM"
+      ],
+      "Sunday": [
+        "7 AM–9 PM"
+      ],
+      "Thursday": [
+        "7 AM–9 PM"
+      ],
+      "Tuesday": [
+        "7 AM–9 PM"
+      ],
+      "Wednesday": [
+        "7 AM–9 PM"
+      ]
+    },
+    "avgRatings": 4.3,
+    "reviewCount": 38,
+    "reviewsPerRating": {
+      "1": 4,
+      "2": 0,
+      "3": 1,
+      "4": 7,
+      "5": 26
+    },
+    "popularTimes": {
+      "Friday": {
+        "6": 0,
+        "7": 50,
+        "8": 46,
+        "9": 57,
+        "10": 46,
+        "11": 50,
+        "12": 46,
+        "13": 46,
+        "14": 39,
+        "15": 42,
+        "16": 53,
+        "17": 57,
+        "18": 67,
+        "19": 57,
+        "20": 50,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Monday": {
+        "6": 0,
+        "7": 17,
+        "8": 28,
+        "9": 32,
+        "10": 42,
+        "11": 57,
+        "12": 60,
+        "13": 60,
+        "14": 64,
+        "15": 53,
+        "16": 50,
+        "17": 46,
+        "18": 64,
+        "19": 57,
+        "20": 57,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Saturday": {
+        "6": 0,
+        "7": 14,
+        "8": 14,
+        "9": 32,
+        "10": 42,
+        "11": 53,
+        "12": 46,
+        "13": 53,
+        "14": 53,
+        "15": 64,
+        "16": 57,
+        "17": 57,
+        "18": 60,
+        "19": 57,
+        "20": 50,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Sunday": {
+        "6": 0,
+        "7": 46,
+        "8": 42,
+        "9": 39,
+        "10": 50,
+        "11": 57,
+        "12": 53,
+        "13": 53,
+        "14": 57,
+        "15": 50,
+        "16": 64,
+        "17": 78,
+        "18": 100,
+        "19": 92,
+        "20": 71,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Thursday": {
+        "6": 0,
+        "7": 46,
+        "8": 42,
+        "9": 42,
+        "10": 35,
+        "11": 32,
+        "12": 32,
+        "13": 32,
+        "14": 35,
+        "15": 39,
+        "16": 32,
+        "17": 32,
+        "18": 46,
+        "19": 53,
+        "20": 50,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Tuesday": {
+        "6": 0,
+        "7": 50,
+        "8": 57,
+        "9": 60,
+        "10": 39,
+        "11": 25,
+        "12": 21,
+        "13": 42,
+        "14": 57,
+        "15": 75,
+        "16": 82,
+        "17": 78,
+        "18": 82,
+        "19": 67,
+        "20": 57,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Wednesday": {
+        "6": 0,
+        "7": 28,
+        "8": 25,
+        "9": 32,
+        "10": 39,
+        "11": 57,
+        "12": 67,
+        "13": 53,
+        "14": 53,
+        "15": 42,
+        "16": 53,
+        "17": 53,
+        "18": 53,
+        "19": 60,
+        "20": 60,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "Anupama Shrestha Panta",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocK9ViiUZMQ8HbYc6tGNeZYtqxEgfjKGSVP8qXbsAZHEODc5yw=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "Daily Shine shampoo is nice with minimal hairfall and great shine. Thanks for recommending Jawakakhel staff members",
+        "Images": [
+          "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIABIhBVGkj1DkwzwzQp7GM3R1tl&fid=0x0:0xb48806b067aaaaea"
+        ],
+        "When": "2026-1-2"
+      },
+      {
+        "Name": "Kiran Tamang",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocLVl6jyilQukBTK8GnfgJW3X8d6OGZHTZu3KYE5UYem4M-98w=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "I tried Bare Anatomy Anti-Hairfall shampoo from Trucare Pharmacy - Jawalakhel for hairfall. I tried numerous shampoo before and finally got good results from it within a month of use. I would recommend this for anyone who is plagued by the similar predicament and highly recommend this store for their guidance on selection of products.",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Roza Danal",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocLTHqQjoFpcrG82qCqKUkwxsn3CfyQPSkaZiXw_aV5VmTMpCQ=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "It’s been more than 6 months I have been using lipidz moisturiser, dwash moisturising facial wash and luxurious spf 50 gel and for dry Skin these products are so good",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Jess Austin",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjUGsxAyn3eVCEFdKMz83on6WhGZo-0XOtJZuL8PE6suehVW0BA=s120-c-rp-mo-ba2-br100",
+        "Rating": 5,
+        "Description": "Style of the store is very easy to navigate and staff were friendly and helpful. I can find all of the products I need. The prices are accurate for genuine products instead of the copied and duped products that you often find in places like New Road. Beauty items are high quality and come directly from the US, which means I can trust using the mascara and lipsticks, etc. This is my new go-to spot for hair, skincare, pharmacy, etc. Highly recommend.",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Nancy Sharma",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjUrrcuIuwnj-teJ2ixSdwv24oUjAuynw-PtQlPneALzswxfPruU=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "TRUCARE have a perfect location along with enough parking space, friendly staff & high-quality products. It's great when everything comes together for a top-notch experience. I'm sure everyone would love to visit a one stop solution to purchase stuffs related to health, wellness, beauty & many more. Thanks for a wonderful concept experience.",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Diwas Shrestha",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjUCNa_pH90XhlBAiWUbiZhcjPp0xI4pJiFrU7J_OqfBpDUAFNaB=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "A convenient place to get beauty products and medications. They have varieties of products from different countries. You can easily get product which you normally don’t find it in Nepal. Friendly and professional staffs. Highly recommended. 😊",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Aster Me",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJ6are0uLMdF4xeRjNd6o1cCEzd3UoBJW2mEtNXkz_xaRRWUw=s120-c-rp-mo-br100",
+        "Rating": 1,
+        "Description": "The cosmetics are very expensive compared to New Road. May be targeted for Expats only. The condom price was around USD 15.00 ((Nrs 2000) for 12 pcs and no discount on medicines compared to 10% discount offered by other local pharmacies.",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "rana bina",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjUcINgwzZN5M4aixNXsT_rCWiUwOVbucvKEG_J8zdlqWe8EXPI=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "It's better destination for Pharmaceutical and beauty care services in nepal. More over , immediate response and respect to the clients from truecare team is highly appreciative !",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": "M8C7+VX Kathmandu",
+    "timezone": "Asia/Katmandu",
+    "cid": "13008654878382926570",
+    "location": {
+      "lat": 27.672212,
+      "lng": 85.314953
+    }
+  },
+  {
+    "name": "Samana Pharmacy",
+    "contact": "985-1039435",
+    "email": null,
+    "address": "M8F7+PWW Samana Pharmacy, Lalitpur 44600",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwYA5NOxmIuNJtqkgeJ0Uv3VH_aZy4nnLrVmtOZ039iNU4ZUn_TSKcp0mBBcQf22_HjyKa9TXdyqTPaKZi6HrayRkfAcvfmAd8rLoqsfneVDOkL6ucEKgJH6Nibyu4lkl7zGfT-=w397-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwYA5NOxmIuNJtqkgeJ0Uv3VH_aZy4nnLrVmtOZ039iNU4ZUn_TSKcp0mBBcQf22_HjyKa9TXdyqTPaKZi6HrayRkfAcvfmAd8rLoqsfneVDOkL6ucEKgJH6Nibyu4lkl7zGfT-=w397-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XoDhKQur9-ZnWVERHj28GA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=206.38554&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwYA5NOxmIuNJtqkgeJ0Uv3VH_aZy4nnLrVmtOZ039iNU4ZUn_TSKcp0mBBcQf22_HjyKa9TXdyqTPaKZi6HrayRkfAcvfmAd8rLoqsfneVDOkL6ucEKgJH6Nibyu4lkl7zGfT-=w408-h306-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "M8F7+PWW",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwYA5NOxmIuNJtqkgeJ0Uv3VH_aZy4nnLrVmtOZ039iNU4ZUn_TSKcp0mBBcQf22_HjyKa9TXdyqTPaKZi6HrayRkfAcvfmAd8rLoqsfneVDOkL6ucEKgJH6Nibyu4lkl7zGfT-=w397-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=XoDhKQur9-ZnWVERHj28GA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=206.38554&pitch=0&thumbfov=100",
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxIUsXjXCoYMNfY8kaDpwmv-yn5iJKQ6geChTsItItbm9agGelRYv3FjzQ2c1uRgYhGx0wq3KAOFbhMKrQRRjm0-WjjUzJnbSor7057mbApZ8pOKwSaapitgbIBxzOOv4x_zS3hew=w224-h398-k-no"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "6 AM–9 PM"
+      ],
+      "Monday": [
+        "6 AM–9 PM"
+      ],
+      "Saturday": [
+        "6 AM–9 PM"
+      ],
+      "Sunday": [
+        "6 AM–9 PM"
+      ],
+      "Thursday": [
+        "6 AM–9 PM"
+      ],
+      "Tuesday": [
+        "6 AM–9 PM"
+      ],
+      "Wednesday": [
+        "6 AM–9 PM"
+      ]
+    },
+    "avgRatings": 4.7,
+    "reviewCount": 3,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 2
+    },
+    "popularTimes": {
+      "Friday": {
+        "5": 0,
+        "6": 46,
+        "7": 26,
+        "8": 26,
+        "9": 40,
+        "10": 66,
+        "11": 40,
+        "12": 40,
+        "13": 46,
+        "14": 73,
+        "15": 53,
+        "16": 33,
+        "17": 33,
+        "18": 46,
+        "19": 20,
+        "20": 13,
+        "21": 0,
+        "22": 0
+      },
+      "Monday": {
+        "5": 0,
+        "6": 33,
+        "7": 40,
+        "8": 53,
+        "9": 53,
+        "10": 33,
+        "11": 20,
+        "12": 13,
+        "13": 20,
+        "14": 26,
+        "15": 20,
+        "16": 26,
+        "17": 26,
+        "18": 33,
+        "19": 26,
+        "20": 20,
+        "21": 0,
+        "22": 0
+      },
+      "Saturday": {
+        "5": 0,
+        "6": 26,
+        "7": 53,
+        "8": 53,
+        "9": 53,
+        "10": 40,
+        "11": 53,
+        "12": 60,
+        "13": 86,
+        "14": 73,
+        "15": 53,
+        "16": 26,
+        "17": 40,
+        "18": 46,
+        "19": 40,
+        "20": 46,
+        "21": 0,
+        "22": 0
+      },
+      "Sunday": {
+        "5": 0,
+        "6": 13,
+        "7": 20,
+        "8": 13,
+        "9": 20,
+        "10": 40,
+        "11": 66,
+        "12": 80,
+        "13": 86,
+        "14": 93,
+        "15": 100,
+        "16": 66,
+        "17": 66,
+        "18": 60,
+        "19": 53,
+        "20": 46,
+        "21": 0,
+        "22": 0
+      },
+      "Thursday": {
+        "5": 0,
+        "6": 26,
+        "7": 6,
+        "8": 13,
+        "9": 20,
+        "10": 26,
+        "11": 20,
+        "12": 26,
+        "13": 33,
+        "14": 33,
+        "15": 33,
+        "16": 33,
+        "17": 40,
+        "18": 40,
+        "19": 13,
+        "20": 13,
+        "21": 0,
+        "22": 0
+      },
+      "Tuesday": {
+        "5": 0,
+        "6": 33,
+        "7": 20,
+        "8": 6,
+        "9": 13,
+        "10": 20,
+        "11": 13,
+        "12": 20,
+        "13": 26,
+        "14": 26,
+        "15": 53,
+        "16": 33,
+        "17": 26,
+        "18": 33,
+        "19": 66,
+        "20": 40,
+        "21": 0,
+        "22": 0
+      },
+      "Wednesday": {
+        "5": 0,
+        "6": 46,
+        "7": 33,
+        "8": 33,
+        "9": 40,
+        "10": 46,
+        "11": 66,
+        "12": 53,
+        "13": 26,
+        "14": 13,
+        "15": 6,
+        "16": 13,
+        "17": 33,
+        "18": 33,
+        "19": 33,
+        "20": 26,
+        "21": 0,
+        "22": 0
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "Vi",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjW38YkwlZfvxX9bdtGmkNH8As-V7ZAfHnSJPGeT9X87t_2mydtutQ=s120-c-rp-mo-ba6-br100",
+        "Rating": 5,
+        "Description": "This has been in business for many years now. They provide good discounts too if you ask and a bit more if you are a regular.",
+        "Images": [
+          "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgICPi6qr6wE&fid=0x0:0xb1c65bd941014269"
+        ],
+        "When": "2024-11-28"
+      },
+      {
+        "Name": "Hari Shrestha",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjUQETiNcOta2mjl-MjCmdKP0sQapZLd857u5v9wwcFCKFAyqI9otw=s120-c-rp-mo-ba6-br100",
+        "Rating": 4,
+        "Description": "Good service and proper invoice. They arrange it from nearby shops too if they don't have stock (if you are a regular customer). Little parking issues if you need to stay longer.",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Sudip Paudel",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjUeCidbyjGdNdnaqgZCUaePGvKd0o_wIje07uVzBun6Ms6qgdvc=s120-c-rp-mo-ba3-br100",
+        "Rating": 5,
+        "Description": "Best for medicine",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": null,
+    "timezone": "Asia/Katmandu",
+    "cid": "12810027178758586985",
+    "location": {
+      "lat": 27.674363,
+      "lng": 85.314832
+    }
+  },
+  {
+    "name": "D.K. PHARMACY",
+    "contact": "01-5001308",
+    "email": null,
+    "address": "M894+899 D.K. PHARMACY, Lalitpur 44700",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEkTIn-wgIVoS9xKGO8LPq_dKc-cHFmz-YQaaAaj4WR_LprPXaV9kK0-rjc962tETjhnJ-Q9hiBg13c0XkZmBVuNpA84gVaxfxEf8v7ANAwrAdzS3cY7hXPbkTJzJFkY8DlHLgaW6OuZG-3bVJ5vVJ2EazNdxyjupiG3B1dktomdr5r0TQ_ix_rDX6qxO5VO6a_OsU=w529-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEkTIn-wgIVoS9xKGO8LPq_dKc-cHFmz-YQaaAaj4WR_LprPXaV9kK0-rjc962tETjhnJ-Q9hiBg13c0XkZmBVuNpA84gVaxfxEf8v7ANAwrAdzS3cY7hXPbkTJzJFkY8DlHLgaW6OuZG-3bVJ5vVJ2EazNdxyjupiG3B1dktomdr5r0TQ_ix_rDX6qxO5VO6a_OsU=w529-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EblMBKYub934UuzQ9PxzQA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=287.14383&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhFCpyBQ_hcQWcjg3axS07PyT7UhJoYgRdcUhESyq-HWXe8BQAHXcHkiuQJWV7p1bMhQllKH-IoOToCmiD22zk8yerAUpkREqfy5CAKsrCK6KLXxJc9BtZemmaNgd4MwLtke0EA6G5O8fz9XuROi2wHemwswYC2T19DxHTobL-KlXdZxmmbK2_VyC8xOJ4SzNskhdQ0=w426-h240-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "M894+899",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhEkTIn-wgIVoS9xKGO8LPq_dKc-cHFmz-YQaaAaj4WR_LprPXaV9kK0-rjc962tETjhnJ-Q9hiBg13c0XkZmBVuNpA84gVaxfxEf8v7ANAwrAdzS3cY7hXPbkTJzJFkY8DlHLgaW6OuZG-3bVJ5vVJ2EazNdxyjupiG3B1dktomdr5r0TQ_ix_rDX6qxO5VO6a_OsU=w529-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=EblMBKYub934UuzQ9PxzQA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=287.14383&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "6:30 AM–9 PM"
+      ],
+      "Monday": [
+        "6:30 AM–9 PM"
+      ],
+      "Saturday": [
+        "6:30 AM–9 PM"
+      ],
+      "Sunday": [
+        "6:30 AM–9 PM"
+      ],
+      "Thursday": [
+        "6:30 AM–9 PM"
+      ],
+      "Tuesday": [
+        "6:30 AM–9 PM"
+      ],
+      "Wednesday": [
+        "6:30 AM–9 PM"
+      ]
+    },
+    "avgRatings": 4.5,
+    "reviewCount": 4,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 1,
+      "4": 0,
+      "5": 3
+    },
+    "popularTimes": {
+      "Friday": {
+        "5": 0,
+        "6": 41,
+        "7": 33,
+        "8": 41,
+        "9": 50,
+        "10": 58,
+        "11": 75,
+        "12": 50,
+        "13": 41,
+        "14": 66,
+        "15": 58,
+        "16": 50,
+        "17": 25,
+        "18": 25,
+        "19": 16,
+        "20": 25,
+        "21": 0,
+        "22": 0
+      },
+      "Monday": {
+        "5": 0,
+        "6": 75,
+        "7": 66,
+        "8": 41,
+        "9": 58,
+        "10": 83,
+        "11": 58,
+        "12": 50,
+        "13": 50,
+        "14": 50,
+        "15": 33,
+        "16": 25,
+        "17": 16,
+        "18": 50,
+        "19": 50,
+        "20": 58,
+        "21": 0,
+        "22": 0
+      },
+      "Saturday": {
+        "5": 0,
+        "6": 25,
+        "7": 33,
+        "8": 66,
+        "9": 100,
+        "10": 83,
+        "11": 83,
+        "12": 50,
+        "13": 58,
+        "14": 41,
+        "15": 41,
+        "16": 16,
+        "17": 25,
+        "18": 16,
+        "19": 25,
+        "20": 33,
+        "21": 0,
+        "22": 0
+      },
+      "Sunday": {
+        "5": 0,
+        "6": 41,
+        "7": 58,
+        "8": 66,
+        "9": 50,
+        "10": 33,
+        "11": 33,
+        "12": 25,
+        "13": 50,
+        "14": 50,
+        "15": 66,
+        "16": 50,
+        "17": 33,
+        "18": 33,
+        "19": 33,
+        "20": 16,
+        "21": 0,
+        "22": 0
+      },
+      "Thursday": {
+        "5": 0,
+        "6": 58,
+        "7": 41,
+        "8": 25,
+        "9": 33,
+        "10": 41,
+        "11": 66,
+        "12": 66,
+        "13": 50,
+        "14": 25,
+        "15": 25,
+        "16": 33,
+        "17": 41,
+        "18": 58,
+        "19": 66,
+        "20": 66,
+        "21": 0,
+        "22": 0
+      },
+      "Tuesday": {
+        "5": 0,
+        "6": 16,
+        "7": 25,
+        "8": 25,
+        "9": 50,
+        "10": 50,
+        "11": 66,
+        "12": 66,
+        "13": 75,
+        "14": 66,
+        "15": 50,
+        "16": 66,
+        "17": 83,
+        "18": 100,
+        "19": 75,
+        "20": 58,
+        "21": 0,
+        "22": 0
+      },
+      "Wednesday": {
+        "5": 0,
+        "6": 83,
+        "7": 100,
+        "8": 100,
+        "9": 66,
+        "10": 33,
+        "11": 25,
+        "12": 41,
+        "13": 50,
+        "14": 25,
+        "15": 41,
+        "16": 58,
+        "17": 41,
+        "18": 41,
+        "19": 58,
+        "20": 50,
+        "21": 0,
+        "22": 0
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "Prasan Dev Pant",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJAd_Bbn_vxzQTMEH94f8ynQvdOWXW3I-dearq_I_HOCbWg6w=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "A very kind and helpful person is the store owner 🙂",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Suman Ghimire",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocIH5vuhY34x0FmThguZxhSYNMq4Jw-Up7vZOx9TzHNdaY-onfmv=s120-c-rp-mo-ba5-br100",
+        "Rating": 3,
+        "Description": "Good",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "santoshi pant",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJ5ahnlh0nhUJ8jEJNlcfSG4is9bXKUj4aZHRgR2jYeQ78K7Q=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Prasan Dev Pant",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJKP0inpvuCEujuX78wFg1NowP5cVw8rh4h5EeWSeofok3BQg=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": null,
+    "timezone": "Asia/Katmandu",
+    "cid": "7994592186448257374",
+    "location": {
+      "lat": 27.66829,
+      "lng": 85.305971
+    }
+  },
+  {
+    "name": "Bright Pharmacy",
+    "contact": null,
+    "email": null,
+    "address": "M895+PXG Bright Pharmacy, Ekantakuna Rd, Lalitpur 44600",
+    "avatarUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OiuCVMOhnyGf85-dYwgacg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=164.54678&pitch=0&thumbfov=100",
+    "coverImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OiuCVMOhnyGf85-dYwgacg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=164.54678&pitch=0&thumbfov=100",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OiuCVMOhnyGf85-dYwgacg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=164.54678&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OiuCVMOhnyGf85-dYwgacg&cb_client=search.gws-prod.gps&w=408&h=240&yaw=164.54678&pitch=0&thumbfov=100",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "M895+PXG, Ekantakuna Rd",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OiuCVMOhnyGf85-dYwgacg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=164.54678&pitch=0&thumbfov=100",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=OiuCVMOhnyGf85-dYwgacg&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=164.54678&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {},
+    "avgRatings": 4,
+    "reviewCount": 1,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 1,
+      "5": 0
+    },
+    "popularTimes": {},
+    "userReviews": [
+      {
+        "Name": "Bikash",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjV3815yLagdgHWAsFu6pL5yQwzV8ygMN9IHhRHJKJDN47FWyAQd=s120-c-rp-mo-ba7-br100",
+        "Rating": 4,
+        "Description": "Rhythm Neuropsychiatry Hospital Pharmacy",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": null,
+    "timezone": "Asia/Katmandu",
+    "cid": "4131726422683461850",
+    "location": {
+      "lat": 27.669349,
+      "lng": 85.309811
+    }
+  },
+  {
+    "name": "Austin Pharmacy",
+    "contact": "984-1362663",
+    "email": null,
+    "address": "Lalitpur 44700",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHntZ3bC3cLKTeUD9CYaIhreQMl4CQUErrIQ17Ud38QJl4xYD6JYtxlgSN-OWEBnDTm7HV__QagZma4meKNpSc3ox7r4e675Yd_QWkapbT-1rtAf1skoUwtZUh7vi-akoXHnWSHizHJJp5W3hH7SGyS_CXsRkZFPVFXCBGAPz7yYAJe2rrLdWFg5lJ7h9Z8Q_fYeUo=w529-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHntZ3bC3cLKTeUD9CYaIhreQMl4CQUErrIQ17Ud38QJl4xYD6JYtxlgSN-OWEBnDTm7HV__QagZma4meKNpSc3ox7r4e675Yd_QWkapbT-1rtAf1skoUwtZUh7vi-akoXHnWSHizHJJp5W3hH7SGyS_CXsRkZFPVFXCBGAPz7yYAJe2rrLdWFg5lJ7h9Z8Q_fYeUo=w529-h298-k-no",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gnpcSUiURj482ldXQnfb_A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=246.7714&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGE-T1kDwADW-a0rjV6ypJASvYz-VPhomUOEU-2J9nQ8R_HZKRu6AZU4juw2H3bXNhZNsqfXmzOsWQo8ujIdsBtASeJqGZNsLawanYex07OwKA8cF-mHdyuNeReQ68qap9L_AtEgB5Djip1Oj8H060-ntKRQaXGwMf3rVG_-aTEpi74N2WGRZg7mfLcjBMgjd19_g=w426-h240-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": null,
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhHntZ3bC3cLKTeUD9CYaIhreQMl4CQUErrIQ17Ud38QJl4xYD6JYtxlgSN-OWEBnDTm7HV__QagZma4meKNpSc3ox7r4e675Yd_QWkapbT-1rtAf1skoUwtZUh7vi-akoXHnWSHizHJJp5W3hH7SGyS_CXsRkZFPVFXCBGAPz7yYAJe2rrLdWFg5lJ7h9Z8Q_fYeUo=w529-h298-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=gnpcSUiURj482ldXQnfb_A&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=246.7714&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "8 AM–8 PM"
+      ],
+      "Monday": [
+        "8 AM–8 PM"
+      ],
+      "Saturday": [
+        "8 AM–8 PM"
+      ],
+      "Sunday": [
+        "8 AM–8 PM"
+      ],
+      "Thursday": [
+        "8 AM–8 PM"
+      ],
+      "Tuesday": [
+        "8 AM–8 PM"
+      ],
+      "Wednesday": [
+        "8 AM–8 PM"
+      ]
+    },
+    "avgRatings": 0,
+    "reviewCount": 0,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0
+    },
+    "popularTimes": {
+      "Friday": {
+        "6": 0,
+        "7": 0,
+        "8": 33,
+        "9": 25,
+        "10": 16,
+        "11": 8,
+        "12": 8,
+        "13": 25,
+        "14": 33,
+        "15": 25,
+        "16": 8,
+        "17": 0,
+        "18": 8,
+        "19": 33,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Monday": {
+        "6": 0,
+        "7": 0,
+        "8": 41,
+        "9": 33,
+        "10": 16,
+        "11": 8,
+        "12": 33,
+        "13": 33,
+        "14": 16,
+        "15": 41,
+        "16": 83,
+        "17": 100,
+        "18": 66,
+        "19": 41,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Saturday": {
+        "6": 0,
+        "7": 0,
+        "8": 25,
+        "9": 16,
+        "10": 25,
+        "11": 50,
+        "12": 58,
+        "13": 75,
+        "14": 58,
+        "15": 58,
+        "16": 66,
+        "17": 66,
+        "18": 58,
+        "19": 41,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Sunday": {
+        "6": 0,
+        "7": 0,
+        "8": 91,
+        "9": 58,
+        "10": 50,
+        "11": 25,
+        "12": 33,
+        "13": 41,
+        "14": 41,
+        "15": 33,
+        "16": 25,
+        "17": 41,
+        "18": 25,
+        "19": 25,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Thursday": {
+        "6": 0,
+        "7": 0,
+        "8": 41,
+        "9": 58,
+        "10": 83,
+        "11": 100,
+        "12": 58,
+        "13": 41,
+        "14": 16,
+        "15": 16,
+        "16": 8,
+        "17": 33,
+        "18": 33,
+        "19": 25,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Tuesday": {
+        "6": 0,
+        "7": 0,
+        "8": 83,
+        "9": 41,
+        "10": 41,
+        "11": 33,
+        "12": 25,
+        "13": 25,
+        "14": 41,
+        "15": 58,
+        "16": 50,
+        "17": 58,
+        "18": 50,
+        "19": 50,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Wednesday": {
+        "6": 0,
+        "7": 0,
+        "8": 75,
+        "9": 91,
+        "10": 100,
+        "11": 91,
+        "12": 75,
+        "13": 83,
+        "14": 75,
+        "15": 91,
+        "16": 41,
+        "17": 50,
+        "18": 25,
+        "19": 50,
+        "20": 0,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      }
+    },
+    "userReviews": [],
+    "priceRange": null,
+    "plusCode": "M8F6+9M Lalitpur",
+    "timezone": "Asia/Katmandu",
+    "cid": "16604071279186328822",
+    "location": {
+      "lat": 27.673472,
+      "lng": 85.311697
+    }
+  },
+  {
+    "name": "J.D. Pharmacy",
+    "contact": "970-7211267",
+    "email": null,
+    "address": "Nakhu dobato, Lalitpur 44600",
+    "avatarUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=08Cb-qr7GHSIbMEdM094rA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=272.94452&pitch=0&thumbfov=100",
+    "coverImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=08Cb-qr7GHSIbMEdM094rA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=272.94452&pitch=0&thumbfov=100",
+    "buildingImageUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=08Cb-qr7GHSIbMEdM094rA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=272.94452&pitch=0&thumbfov=100",
+    "thumbnailUrl": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=08Cb-qr7GHSIbMEdM094rA&cb_client=search.gws-prod.gps&w=408&h=240&yaw=272.94452&pitch=0&thumbfov=100",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "Nakhu dobato",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=08Cb-qr7GHSIbMEdM094rA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=272.94452&pitch=0&thumbfov=100",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=08Cb-qr7GHSIbMEdM094rA&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=272.94452&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "8 AM–9 PM"
+      ],
+      "Monday": [
+        "8 AM–9 PM"
+      ],
+      "Saturday": [
+        "8 AM–9 PM"
+      ],
+      "Sunday": [
+        "8 AM–9 PM"
+      ],
+      "Thursday": [
+        "8 AM–9 PM"
+      ],
+      "Tuesday": [
+        "8 AM–9 PM"
+      ],
+      "Wednesday": [
+        "8 AM–9:30 PM"
+      ]
+    },
+    "avgRatings": 5,
+    "reviewCount": 5,
+    "reviewsPerRating": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 5
+    },
+    "popularTimes": {
+      "Friday": {
+        "6": 0,
+        "7": 0,
+        "8": 35,
+        "9": 23,
+        "10": 23,
+        "11": 17,
+        "12": 5,
+        "13": 11,
+        "14": 41,
+        "15": 82,
+        "16": 94,
+        "17": 82,
+        "18": 58,
+        "19": 41,
+        "20": 29,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Monday": {
+        "6": 0,
+        "7": 0,
+        "8": 47,
+        "9": 41,
+        "10": 35,
+        "11": 23,
+        "12": 23,
+        "13": 23,
+        "14": 23,
+        "15": 23,
+        "16": 41,
+        "17": 41,
+        "18": 35,
+        "19": 29,
+        "20": 23,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Saturday": {
+        "6": 0,
+        "7": 0,
+        "8": 23,
+        "9": 29,
+        "10": 23,
+        "11": 23,
+        "12": 29,
+        "13": 23,
+        "14": 23,
+        "15": 23,
+        "16": 5,
+        "17": 0,
+        "18": 0,
+        "19": 11,
+        "20": 29,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Sunday": {
+        "6": 0,
+        "7": 0,
+        "8": 47,
+        "9": 29,
+        "10": 23,
+        "11": 17,
+        "12": 11,
+        "13": 5,
+        "14": 11,
+        "15": 17,
+        "16": 29,
+        "17": 29,
+        "18": 23,
+        "19": 29,
+        "20": 23,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Thursday": {
+        "6": 0,
+        "7": 0,
+        "8": 52,
+        "9": 58,
+        "10": 88,
+        "11": 70,
+        "12": 58,
+        "13": 35,
+        "14": 23,
+        "15": 17,
+        "16": 29,
+        "17": 35,
+        "18": 23,
+        "19": 23,
+        "20": 29,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Tuesday": {
+        "6": 0,
+        "7": 0,
+        "8": 58,
+        "9": 100,
+        "10": 76,
+        "11": 58,
+        "12": 23,
+        "13": 17,
+        "14": 11,
+        "15": 17,
+        "16": 17,
+        "17": 17,
+        "18": 23,
+        "19": 35,
+        "20": 47,
+        "21": 0,
+        "22": 0,
+        "23": 0
+      },
+      "Wednesday": {
+        "6": 0,
+        "7": 0,
+        "8": 11,
+        "9": 11,
+        "10": 17,
+        "11": 23,
+        "12": 35,
+        "13": 23,
+        "14": 17,
+        "15": 0,
+        "16": 5,
+        "17": 17,
+        "18": 29,
+        "19": 47,
+        "20": 64,
+        "21": 47,
+        "22": 0,
+        "23": 0
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "Nepali Ab",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWuUEcReWWlYIFi_2SU3nRDxP-LKS8KEvMNMuOrjECm13OpxbA4=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "Authentic product",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Suraj Rai Danuwar",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjXi7P6YIWQhS_RxcWhbUnsblfvmlr5wBbbypvWUAd7Ne7sel40=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Sparsha Jthapa",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocLZ1S5QAhwMqAlZtLcjFNgJhb6O_hSG46muwY-OGaQChW_6cg=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Mira Bharati",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJKjmi7txPQNA-Z4KPuWx8kUOhAxBaC7aidVuXb3soeCz8CCQ=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "pradip mahato",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWQsiPN90Zm1JjHLdAx_ZS9l3jFXvrBDxUTCIxAZk5VZ-PUGdIa7Q=s120-c-rp-mo-br100",
+        "Rating": 5,
+        "Description": "",
+        "Images": null,
+        "When": ""
+      }
+    ],
+    "priceRange": null,
+    "plusCode": "M894+8G Lalitpur",
+    "timezone": "Asia/Katmandu",
+    "cid": "1454969822417797841",
+    "location": {
+      "lat": 27.668328,
+      "lng": 85.306273
+    }
+  },
+  {
+    "name": "Alka Hospital Pharmacy P. Ltd.",
+    "contact": null,
+    "email": null,
+    "address": "Pulchowk Rd, Lalitpur 44700",
+    "avatarUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhELeVG_6__XmrR82VCIygW7djpfwir5xu44Sd8UyAr7CgKHLbJW1aZI-mf3apLUjc9uDQPy85HNUWIHYRmhpdvd1RcfozsPuENZn_I2FzpPxLJWG8y6aHijWvXZqvVBUm4JVRnVK7-BIBbYggiSr3tWKAYMAMeNmbID0w66hhkKm2LMpHTajmZHkdjWG20ngfE9R5k=w397-h298-k-no",
+    "coverImageUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhELeVG_6__XmrR82VCIygW7djpfwir5xu44Sd8UyAr7CgKHLbJW1aZI-mf3apLUjc9uDQPy85HNUWIHYRmhpdvd1RcfozsPuENZn_I2FzpPxLJWG8y6aHijWvXZqvVBUm4JVRnVK7-BIBbYggiSr3tWKAYMAMeNmbID0w66hhkKm2LMpHTajmZHkdjWG20ngfE9R5k=w397-h298-k-no",
+    "buildingImageUrl": "https://lh3.googleusercontent.com/p/AF1QipMKPZDejtyNiCKtM_4h3uc6iaeiwiKsveACFmIU=w529-h298-k-no",
+    "thumbnailUrl": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGI-5LR4KsPBtwMU94sNw_Zz7GotHeCI1cFA4NWF_pg4JV1B9lN_HQfVA4y_Aj_JnOOrdbJzYzVq6ybrf-gh6RCmBedpIHxpDzYSozjGNHbabadHpxncimd9Cvpryr5FrUU1NWM8OuzfC2eBGnMsNx0opQQVQ_k9GMRqgtkNOwocKIemkInCRWwdL1ChM8I6TGZalQ=w408-h306-k-no",
+    "tagLine": null,
+    "website": null,
+    "description": null,
+    "isPickup": false,
+    "isDelivery": false,
+    "isAvailable": true,
+    "isVisible": true,
+    "isOfficial": false,
+    "buildingInformation": "Pulchowk Rd",
+    "floorNo": null,
+    "panoramaImageUrl": null,
+    "gallery": [
+      "https://lh3.googleusercontent.com/gps-proxy/ALd4DhELeVG_6__XmrR82VCIygW7djpfwir5xu44Sd8UyAr7CgKHLbJW1aZI-mf3apLUjc9uDQPy85HNUWIHYRmhpdvd1RcfozsPuENZn_I2FzpPxLJWG8y6aHijWvXZqvVBUm4JVRnVK7-BIBbYggiSr3tWKAYMAMeNmbID0w66hhkKm2LMpHTajmZHkdjWG20ngfE9R5k=w397-h298-k-no",
+      "https://lh3.googleusercontent.com/p/AF1QipMKPZDejtyNiCKtM_4h3uc6iaeiwiKsveACFmIU=w529-h298-k-no",
+      "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSxSbXTDpUx-m7VfVUeCUX4ryyS1UHirVyvUVnavU91LCKrNq8tYAn8K41Q7KbWNEnpJEn_Vo8zUJZTT5Gw965oWQqnqk37hKVwEzaa6vbHwhUoC2BI678ABcqMcsTaA5dmI4ie7=w224-h398-k-no",
+      "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=7YNFVA8WVYUVNyivLkwD3g&cb_client=maps_sv.tactile.gps&w=224&h=298&yaw=87.870476&pitch=0&thumbfov=100"
+    ],
+    "webGallery": [],
+    "hasOwnershipClaim": false,
+    "status": "active",
+    "workingDaysAndHours": {
+      "Friday": [
+        "Open 24 hours"
+      ],
+      "Monday": [
+        "Open 24 hours"
+      ],
+      "Saturday": [
+        "Open 24 hours"
+      ],
+      "Sunday": [
+        "Open 24 hours"
+      ],
+      "Thursday": [
+        "Open 24 hours"
+      ],
+      "Tuesday": [
+        "Open 24 hours"
+      ],
+      "Wednesday": [
+        "Open 24 hours"
+      ]
+    },
+    "avgRatings": 3.3,
+    "reviewCount": 22,
+    "reviewsPerRating": {
+      "1": 6,
+      "2": 1,
+      "3": 3,
+      "4": 5,
+      "5": 7
+    },
+    "popularTimes": {
+      "Friday": {
+        "0": 80,
+        "1": 65,
+        "2": 78,
+        "3": 53,
+        "4": 51,
+        "5": 36,
+        "6": 39,
+        "7": 39,
+        "8": 41,
+        "9": 31,
+        "10": 56,
+        "11": 46,
+        "12": 63,
+        "13": 51,
+        "14": 56,
+        "15": 43,
+        "16": 51,
+        "17": 36,
+        "18": 39,
+        "19": 39,
+        "20": 51,
+        "21": 63,
+        "22": 75,
+        "23": 73
+      },
+      "Monday": {
+        "0": 75,
+        "1": 63,
+        "2": 46,
+        "3": 26,
+        "4": 21,
+        "5": 24,
+        "6": 29,
+        "7": 36,
+        "8": 39,
+        "9": 46,
+        "10": 53,
+        "11": 58,
+        "12": 58,
+        "13": 68,
+        "14": 78,
+        "15": 75,
+        "16": 70,
+        "17": 63,
+        "18": 68,
+        "19": 78,
+        "20": 60,
+        "21": 56,
+        "22": 58,
+        "23": 70
+      },
+      "Saturday": {
+        "0": 46,
+        "1": 34,
+        "2": 36,
+        "3": 51,
+        "4": 53,
+        "5": 56,
+        "6": 51,
+        "7": 41,
+        "8": 46,
+        "9": 63,
+        "10": 82,
+        "11": 78,
+        "12": 80,
+        "13": 75,
+        "14": 82,
+        "15": 73,
+        "16": 60,
+        "17": 58,
+        "18": 65,
+        "19": 73,
+        "20": 70,
+        "21": 70,
+        "22": 70,
+        "23": 63
+      },
+      "Sunday": {
+        "0": 56,
+        "1": 75,
+        "2": 60,
+        "3": 73,
+        "4": 70,
+        "5": 65,
+        "6": 46,
+        "7": 39,
+        "8": 36,
+        "9": 48,
+        "10": 56,
+        "11": 43,
+        "12": 31,
+        "13": 31,
+        "14": 48,
+        "15": 58,
+        "16": 56,
+        "17": 58,
+        "18": 51,
+        "19": 46,
+        "20": 51,
+        "21": 34,
+        "22": 39,
+        "23": 43
+      },
+      "Thursday": {
+        "0": 41,
+        "1": 58,
+        "2": 65,
+        "3": 53,
+        "4": 58,
+        "5": 43,
+        "6": 46,
+        "7": 51,
+        "8": 51,
+        "9": 51,
+        "10": 51,
+        "11": 60,
+        "12": 56,
+        "13": 48,
+        "14": 41,
+        "15": 41,
+        "16": 51,
+        "17": 63,
+        "18": 60,
+        "19": 63,
+        "20": 68,
+        "21": 90,
+        "22": 63,
+        "23": 48
+      },
+      "Tuesday": {
+        "0": 58,
+        "1": 51,
+        "2": 51,
+        "3": 39,
+        "4": 43,
+        "5": 39,
+        "6": 51,
+        "7": 48,
+        "8": 56,
+        "9": 70,
+        "10": 78,
+        "11": 90,
+        "12": 70,
+        "13": 60,
+        "14": 51,
+        "15": 48,
+        "16": 60,
+        "17": 70,
+        "18": 100,
+        "19": 75,
+        "20": 65,
+        "21": 58,
+        "22": 51,
+        "23": 46
+      },
+      "Wednesday": {
+        "0": 24,
+        "1": 26,
+        "2": 31,
+        "3": 51,
+        "4": 63,
+        "5": 51,
+        "6": 46,
+        "7": 68,
+        "8": 65,
+        "9": 60,
+        "10": 48,
+        "11": 48,
+        "12": 58,
+        "13": 51,
+        "14": 41,
+        "15": 53,
+        "16": 58,
+        "17": 65,
+        "18": 80,
+        "19": 82,
+        "20": 80,
+        "21": 56,
+        "22": 41,
+        "23": 31
+      }
+    },
+    "userReviews": [
+      {
+        "Name": "Barsha Palli",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocJav_lz1fVaHWRhZUR3L1XPf3PgAqWuIxHQeytvgtzS0Tad8g=s120-c-rp-mo-br100",
+        "Rating": 1,
+        "Description": "This pharmacy has been charging more than the written price. Please be cautious when buying medicines. I purchased some today, and there was a difference of around five hundred rupees from the actual price.",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Aliza Thapa",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocLHYJAKcMosZoV4fbfat6ahJjnb558H4r_RBSv-80rnjNpDoXVA=s120-c-rp-mo-br100",
+        "Rating": 1,
+        "Description": "Miss Himali Shrestha who gave me medicine without even looking at the age group in the patient id card. It's such an unprofessional behavior, as I also was the patient with an emergency, I used that medicine twice in the morning and the afternoon (today) and realized that was the wrong dose (it was for infants). When I rushed to pharmacy and told them that they gave wrong medicine, all they did was quickly printed the refund bill instead of taking complaint seriously. That woman wasn't even guilty and sorry about her behavior. And Himali Shrestha ma'am who just called me now(2024/10/24) to remove this review, sorry I'm not doing that and I'm attaching my prescription here and yes I got the medicine from another pharmacy who provided me with the right dose. Thank you.#medicalmafias",
+        "Images": [
+          "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgIDXlKTq5AE&fid=0x0:0x914d5b1ecd75de58"
+        ],
+        "When": "2024-10-24"
+      },
+      {
+        "Name": "Khem Pratap",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a/ACg8ocLVefm1sMH44xT5fg_KWNFfDBNdCoX3RfMFf3zyE0s3NsnxJvA=s120-c-rp-mo-br100",
+        "Rating": 1,
+        "Description": "One of the lady pharmacist at pulchowk was extremely rude to me for no reason. I was just asking for my medical bill. Her reply was, you should have mentioned it early. She was replying as if we were in some argument or fight. Before I wanted to create a scene. I left the spot. Horrible experience ..",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Ankit",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjVrG8l6--YqcfsPx3Vhfz5iACh1qBou_SmQOpnIA3uCDJBFBswIkg=s120-c-rp-mo-ba2-br100",
+        "Rating": 1,
+        "Description": "Highly understaffed and most of the staffs are inexperienced and clueless.",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Elucinator",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjVKWzuLSKXiPPwbj9OcSHJKLpZnlsLVdUqR2_rVUyBB7Ug-vpXZ=s120-c-rp-mo-ba4-br100",
+        "Rating": 1,
+        "Description": "Makes you spend unnecessarily, also the service isn't good.",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Basanta Aryal",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWNZzMSVVmO9EvWn2zOsk7LH4dM-3jmKT_daSvmaBElw8A6P2d9xw=s120-c-rp-mo-ba6-br100",
+        "Rating": 5,
+        "Description": "Infront of Alka hospital, near from jawalakhen chowk",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Prizma Ghimire",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjVZwxi9YhhRgRDtTUmbT9O6G7OCMiyCaWrwpRj7VG82DUNr2_JoQQ=s120-c-rp-mo-ba6-br100",
+        "Rating": 4,
+        "Description": "This place is accessible. Infront of Saleways, Jawalakhel.",
+        "Images": null,
+        "When": ""
+      },
+      {
+        "Name": "Bhim Khatri (भिम खत्री)",
+        "ProfilePicture": "https://lh3.googleusercontent.com/a-/ALV-UjWQhUdRIB-7Y0G7MaWMlfYuvuZhWmGwDx-XQr1jGxL2NcEAbvSASg=s120-c-rp-mo-ba5-br100",
+        "Rating": 5,
+        "Description": "Nice Service",
+        "Images": [
+          "www.google.com/local/imagery/report/?cb_client=maps_sv.tactile&image_key=!1e10!2sCIHM0ogKEICAgICG48Wgdg&fid=0x0:0x914d5b1ecd75de58"
+        ],
+        "When": "2021-11-8"
+      }
+    ],
+    "priceRange": null,
+    "plusCode": "M8F7+VW Lalitpur",
+    "timezone": "Asia/Katmandu",
+    "cid": "10470124896560471640",
+    "location": {
+      "lat": 27.674725,
+      "lng": 85.314862
+    }
+  }
+]
