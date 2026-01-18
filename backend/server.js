@@ -1,6 +1,8 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
+import swaggerUi from 'swagger-ui-express';
+import swaggerJsdoc from 'swagger-jsdoc';
 import pool from './db.js';
 
 dotenv.config();
@@ -8,6 +10,46 @@ dotenv.config();
 const app = express();
 const PORT = process.env.PORT || 3000;
 const API_PREFIX = process.env.API_PREFIX || '/pharmacy/api/v1';
+
+// Swagger configuration
+const swaggerOptions = {
+  definition: {
+    openapi: '3.0.0',
+    info: {
+      title: 'Pharmacy API',
+      version: '1.0.0',
+      description: 'API for Kathmandu Pharmacy Directory',
+      contact: {
+        name: 'API Support',
+      },
+    },
+    servers: [
+      {
+        url: process.env.NODE_ENV === 'production' 
+          ? 'https://dev.kaha.com.np/pharmacy/api/v1'
+          : `http://localhost:${PORT}${API_PREFIX}`,
+        description: process.env.NODE_ENV === 'production' ? 'Production server' : 'Development server',
+      },
+    ],
+    tags: [
+      {
+        name: 'Pharmacies',
+        description: 'Pharmacy management endpoints',
+      },
+      {
+        name: 'Statistics',
+        description: 'Statistics and analytics endpoints',
+      },
+      {
+        name: 'Health',
+        description: 'Health check endpoints',
+      },
+    ],
+  },
+  apis: ['./server.js'],
+};
+
+const swaggerSpec = swaggerJsdoc(swaggerOptions);
 
 // Middleware
 const corsOptions = {
@@ -17,12 +59,127 @@ const corsOptions = {
 app.use(cors(corsOptions));
 app.use(express.json());
 
+// Swagger UI
+app.use(`${API_PREFIX}/docs`, swaggerUi.serve, swaggerUi.setup(swaggerSpec, {
+  customCss: '.swagger-ui .topbar { display: none }',
+  customSiteTitle: 'Pharmacy API Docs',
+}));
+
+/**
+ * @swagger
+ * /health:
+ *   get:
+ *     summary: Health check endpoint
+ *     tags: [Health]
+ *     responses:
+ *       200:
+ *         description: API is running
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 status:
+ *                   type: string
+ *                   example: ok
+ *                 message:
+ *                   type: string
+ *                   example: Pharmacy API is running
+ */
 // Health check endpoint (without prefix for Docker healthcheck)
 app.get('/health', (req, res) => {
   res.json({ status: 'ok', message: 'Pharmacy API is running' });
 });
 
-// GET /pharmacy/api/pharmacies - List pharmacies with pagination, search, and filters
+/**
+ * @swagger
+ * /pharmacies:
+ *   get:
+ *     summary: List pharmacies with pagination, search, and filters
+ *     tags: [Pharmacies]
+ *     parameters:
+ *       - in: query
+ *         name: page
+ *         schema:
+ *           type: integer
+ *           default: 1
+ *         description: Page number
+ *       - in: query
+ *         name: limit
+ *         schema:
+ *           type: integer
+ *           default: 10
+ *           maximum: 100
+ *         description: Items per page
+ *       - in: query
+ *         name: search
+ *         schema:
+ *           type: string
+ *         description: Search by name or address
+ *       - in: query
+ *         name: minRating
+ *         schema:
+ *           type: number
+ *           minimum: 0
+ *           maximum: 5
+ *         description: Minimum rating filter
+ *       - in: query
+ *         name: hasPickup
+ *         schema:
+ *           type: boolean
+ *         description: Filter by pickup availability
+ *       - in: query
+ *         name: hasDelivery
+ *         schema:
+ *           type: boolean
+ *         description: Filter by delivery availability
+ *       - in: query
+ *         name: sortBy
+ *         schema:
+ *           type: string
+ *           enum: [name, avg_ratings, created_at]
+ *           default: name
+ *         description: Sort column
+ *       - in: query
+ *         name: sortOrder
+ *         schema:
+ *           type: string
+ *           enum: [asc, desc]
+ *           default: asc
+ *         description: Sort direction
+ *     responses:
+ *       200:
+ *         description: List of pharmacies
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                 data:
+ *                   type: array
+ *                   items:
+ *                     type: object
+ *                 pagination:
+ *                   type: object
+ *                   properties:
+ *                     page:
+ *                       type: integer
+ *                     limit:
+ *                       type: integer
+ *                     total:
+ *                       type: integer
+ *                     totalPages:
+ *                       type: integer
+ *                     hasNext:
+ *                       type: boolean
+ *                     hasPrev:
+ *                       type: boolean
+ *       500:
+ *         description: Server error
+ */
+// GET /pharmacy/api/v1/pharmacies - List pharmacies with pagination, search, and filters
 app.get(`${API_PREFIX}/pharmacies`, async (req, res) => {
   try {
     const {
@@ -184,7 +341,37 @@ app.get(`${API_PREFIX}/pharmacies`, async (req, res) => {
   }
 });
 
-// GET /pharmacy/api/pharmacies/:id - Get single pharmacy by ID
+/**
+ * @swagger
+ * /pharmacies/{id}:
+ *   get:
+ *     summary: Get single pharmacy by ID
+ *     tags: [Pharmacies]
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema:
+ *           type: integer
+ *         description: Pharmacy ID
+ *     responses:
+ *       200:
+ *         description: Pharmacy details
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                 data:
+ *                   type: object
+ *       404:
+ *         description: Pharmacy not found
+ *       500:
+ *         description: Server error
+ */
+// GET /pharmacy/api/v1/pharmacies/:id - Get single pharmacy by ID
 app.get(`${API_PREFIX}/pharmacies/:id`, async (req, res) => {
   try {
     const { id } = req.params;
@@ -276,7 +463,45 @@ app.get(`${API_PREFIX}/pharmacies/:id`, async (req, res) => {
   }
 });
 
-// GET /pharmacy/api/stats - Get database statistics
+/**
+ * @swagger
+ * /stats:
+ *   get:
+ *     summary: Get database statistics
+ *     tags: [Statistics]
+ *     responses:
+ *       200:
+ *         description: Database statistics
+ *         content:
+ *           application/json:
+ *             schema:
+ *               type: object
+ *               properties:
+ *                 success:
+ *                   type: boolean
+ *                 data:
+ *                   type: object
+ *                   properties:
+ *                     total:
+ *                       type: integer
+ *                     withPickup:
+ *                       type: integer
+ *                     withDelivery:
+ *                       type: integer
+ *                     avgRating:
+ *                       type: number
+ *                     withRatings:
+ *                       type: integer
+ *                     withContact:
+ *                       type: integer
+ *                     withEmail:
+ *                       type: integer
+ *                     withWebsite:
+ *                       type: integer
+ *       500:
+ *         description: Server error
+ */
+// GET /pharmacy/api/v1/stats - Get database statistics
 app.get(`${API_PREFIX}/stats`, async (req, res) => {
   try {
     const query = `
@@ -342,7 +567,8 @@ app.use((err, req, res, next) => {
 app.listen(PORT, '0.0.0.0', () => {
   console.log(`\n🚀 Pharmacy API Server running on port ${PORT}`);
   console.log(`📍 Health check: http://localhost:${PORT}/health`);
-  console.log(`📍 API endpoints:`);
+  console.log(`� API Docs: http://localhost:${PORT}${API_PREFIX}/docs`);
+  console.log(`�📍 API endpoints:`);
   console.log(`   GET  ${API_PREFIX}/pharmacies - List pharmacies`);
   console.log(`   GET  ${API_PREFIX}/pharmacies/:id - Get single pharmacy`);
   console.log(`   GET  ${API_PREFIX}/stats - Get statistics`);
