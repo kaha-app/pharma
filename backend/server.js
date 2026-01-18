@@ -86,8 +86,12 @@ app.use(`${API_PREFIX}/docs`, swaggerUi.serve, swaggerUi.setup(swaggerSpec, {
  *                   type: string
  *                   example: Pharmacy API is running
  */
-// Health check endpoint (without prefix for Docker healthcheck)
+// Health check endpoints
 app.get('/health', (req, res) => {
+  res.json({ status: 'ok', message: 'Pharmacy API is running' });
+});
+
+app.get('/pharmacy/health', (req, res) => {
   res.json({ status: 'ok', message: 'Pharmacy API is running' });
 });
 
