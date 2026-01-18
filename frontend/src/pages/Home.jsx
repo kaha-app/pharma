@@ -15,7 +15,7 @@ export default function Home() {
               Find Pharmacies in Kathmandu
             </h1>
             <p className="text-xl text-primary-100 mb-8">
-              Comprehensive database of {stats?.total || '500+'}+ pharmacies with accurate locations, 
+              Comprehensive database of 3100+ pharmacies with accurate locations, 
               contact information, and working hours
             </p>
             <Link 
@@ -38,7 +38,7 @@ export default function Home() {
                 <Building2 className="w-8 h-8 text-primary-600" />
               </div>
               <div className="text-3xl font-bold text-gray-900 mb-2">
-                {stats?.total || '...'}
+                3100
               </div>
               <div className="text-gray-600">Total Pharmacies</div>
             </div>
