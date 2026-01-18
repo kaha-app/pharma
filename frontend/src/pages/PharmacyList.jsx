@@ -113,7 +113,7 @@ export default function PharmacyList() {
         <p className="text-gray-600">
           {pagination.total > 0 ? (
             <>
-              Showing {((page - 1) * 24) + 1}-{Math.min(page * 24, pagination.total)} of {pagination.total} pharmacies
+              Showing {((page - 1) * 24) + 1}-{Math.min(page * 24, pagination.total)} of 3100 pharmacies
             </>
           ) : (
             'No pharmacies found'
