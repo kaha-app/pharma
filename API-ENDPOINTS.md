@@ -122,7 +122,160 @@ http://localhost:3000/api/pharmacies?sortBy=avg_ratings&sortOrder=desc
 
 ---
 
-### 3️⃣ Get Single Pharmacy
+### 3️⃣ Create/Update Pharmacy
+
+**Endpoint:** `POST /api/pharmacies`
+
+**Description:** Manually create or update a pharmacy
+
+**Request Body:**
+```json
+{
+  "placeId": "ChIJXYZ123...",
+  "name": "ABC Pharmacy",
+  "contact": "01-4567890",
+  "email": "info@abcpharmacy.com",
+  "address": "Thamel, Kathmandu",
+  "avatarUrl": "https://example.com/avatar.jpg",
+  "coverImageUrl": "https://example.com/cover.jpg",
+  "buildingImageUrl": "https://example.com/building.jpg",
+  "thumbnailUrl": "https://example.com/thumb.jpg",
+  "tagLine": "Your Health Partner",
+  "website": "https://abcpharmacy.com",
+  "description": "24/7 pharmacy service in Thamel",
+  "isPickup": true,
+  "isDelivery": true,
+  "isAvailable": true,
+  "isVisible": true,
+  "isOfficial": false,
+  "buildingInformation": "Near Thamel Chowk",
+  "floorNo": "Ground Floor",
+  "panoramaImageUrl": null,
+  "gallery": [
+    "https://example.com/img1.jpg",
+    "https://example.com/img2.jpg"
+  ],
+  "webGallery": [],
+  "hasOwnershipClaim": false,
+  "status": "active",
+  "workingDaysAndHours": {
+    "Monday": ["8 AM–10 PM"],
+    "Tuesday": ["8 AM–10 PM"],
+    "Wednesday": ["8 AM–10 PM"],
+    "Thursday": ["8 AM–10 PM"],
+    "Friday": ["8 AM–10 PM"],
+    "Saturday": ["9 AM–9 PM"],
+    "Sunday": ["9 AM–9 PM"]
+  },
+  "avgRatings": 4.5,
+  "reviewCount": 120,
+  "reviewsPerRating": {
+    "1": 5,
+    "2": 10,
+    "3": 15,
+    "4": 30,
+    "5": 60
+  },
+  "popularTimes": {},
+  "userReviews": [],
+  "priceRange": "$$",
+  "plusCode": "P865+MH3",
+  "timezone": "Asia/Kathmandu",
+  "cid": "12345678901234567890",
+  "location": {
+    "lat": 27.711634,
+    "lng": 85.308931
+  }
+}
+```
+
+**Required Fields:**
+- `name` (string) - Pharmacy name
+- `location.lat` (number) - Latitude
+- `location.lng` (number) - Longitude
+
+**Optional Fields:** All other fields are optional
+
+**Response (Success - 201):**
+```json
+{
+  "success": true,
+  "message": "Pharmacy created successfully",
+  "data": {
+    "id": 123,
+    "placeId": "ChIJXYZ123...",
+    "name": "ABC Pharmacy",
+    "contact": "01-4567890",
+    "email": "info@abcpharmacy.com",
+    "address": "Thamel, Kathmandu",
+    "location": {
+      "lat": 27.711634,
+      "lng": 85.308931
+    },
+    "createdAt": "2026-01-20T10:30:00.000Z",
+    "updatedAt": "2026-01-20T10:30:00.000Z"
+  }
+}
+```
+
+**Response (Validation Error - 400):**
+```json
+{
+  "success": false,
+  "error": "Validation failed",
+  "details": {
+    "name": "Name is required",
+    "location": "Valid location coordinates (lat, lng) are required"
+  }
+}
+```
+
+**Notes:**
+- If `placeId` is not provided, it will be auto-generated from name and coordinates
+- If a pharmacy with the same `placeId` exists, it will be updated
+- All JSON fields (gallery, workingDaysAndHours, etc.) are automatically stringified
+
+**Example with PowerShell:**
+```powershell
+$body = @{
+  name = "Test Pharmacy"
+  contact = "01-1234567"
+  address = "Kathmandu"
+  location = @{
+    lat = 27.7172
+    lng = 85.3240
+  }
+  isPickup = $true
+  isDelivery = $true
+} | ConvertTo-Json
+
+Invoke-WebRequest -Uri "http://localhost:3000/api/pharmacies" `
+  -Method POST `
+  -Body $body `
+  -ContentType "application/json" `
+  -UseBasicParsing
+```
+
+**Example with cURL:**
+```bash
+curl -X POST http://localhost:3000/api/pharmacies \
+  -H "Content-Type: application/json" \
+  -d '{
+    "name": "Test Pharmacy",
+    "contact": "01-1234567",
+    "address": "Kathmandu",
+    "location": {
+      "lat": 27.7172,
+      "lng": 85.3240
+    },
+    "isPickup": true,
+    "isDelivery": true
+  }'
+```
+
+---
+
+### 4️⃣ Get Single Pharmacy
 
 **Endpoint:** `GET /api/pharmacies/:id`
 
@@ -190,7 +343,7 @@ http://localhost:3000/api/pharmacies/1
 
 ---
 
-### 4️⃣ Get Statistics
+### 5️⃣ Get Statistics
 
 **Endpoint:** `GET /api/stats`
 
@@ -251,6 +404,19 @@ All endpoints return consistent error format:
 # Search
 (Invoke-WebRequest -Uri "http://localhost:3000/api/pharmacies?search=thamel" -UseBasicParsing).Content
 
+# Create pharmacy
+$body = @{
+  name = "Test Pharmacy"
+  contact = "01-1234567"
+  address = "Kathmandu"
+  location = @{
+    lat = 27.7172
+    lng = 85.3240
+  }
+} | ConvertTo-Json
+
+(Invoke-WebRequest -Uri "http://localhost:3000/api/pharmacies" -Method POST -Body $body -ContentType "application/json" -UseBasicParsing).Content
+
 # Get single pharmacy
 (Invoke-WebRequest -Uri http://localhost:3000/api/pharmacies/1 -UseBasicParsing).Content
 
@@ -269,6 +435,8 @@ Just open these URLs:
 - http://localhost:3000/api/pharmacies/1
 - http://localhost:3000/api/stats
 
+**Note:** POST endpoint requires a tool like Postman, Insomnia, or PowerShell/cURL
+
 ---
 
 ## Response Times
@@ -277,6 +445,7 @@ With PostgreSQL and proper indexes:
 - Health check: < 5ms
 - List pharmacies: < 50ms
 - Search: < 50ms
+- Create pharmacy: < 20ms
 - Get single: < 10ms
 - Stats: < 30ms
 
